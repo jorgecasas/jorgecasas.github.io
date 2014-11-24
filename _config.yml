@@ -1,6 +1,7 @@
 # Site settings
 title: jorgecasas.github.io
 description: > # this means to ignore newlines until "baseurl:"
+  CTO iternova.net && Runner && Time traveller since 1637...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jorgecasas.github.io" # the base hostname & protocol for your site
 

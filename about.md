@@ -5,8 +5,9 @@ permalink: /about/
 icon-menu: icon-vcard
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I founded **[ITERNOVA](https://www.iternova.net)** in 2004 with a colleague and friend, and after that we are developing web and mobile apps for our customers, always trying to contribute with a high degree of innovation in those systems in order to facilitate their daily work.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I spend my time managing projects and developing *ITS (Intelligent Transport Systems)* and infrastructure management systems (mainly for road, facility management and SmartCities, more info in **[tecnocarreteras.es](https://www.tecnocarreteras.es)**), integrating them with mobile and web applications in high availability enviroments. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+And last, but not least, **I'm runner && time traveller since 1637**...
+

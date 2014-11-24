@@ -4,12 +4,19 @@
 		<div class="footer-col-wrapper">
 			<div class="footer-col  footer-col-1">
 				<h2>{{ site.title }}</h2>
+				<p class="text">{{ site.description }}</p>
+			</div>
+
+			<div class="footer-col footer-col-2"></div>
+			<div class="footer-col footer-col-3">
+				
 				<ul class="contact-list">
 					<li>
 						<a href="mailto:{{ site.user.email }}">
 							<span class="icon icon-mail"></span>
 							<span class="username"> {{ site.user.email }}</span>
 						</a>
+						
 					</li>
 
 					{% if site.user.twitter %}
@@ -23,7 +30,7 @@
 
 					{% if site.user.linkedin %}
 					<li>
-						<a href="https://linkedin.com/{{ site.user.linkedin }}">
+						<a href="https://linkedin.com/in/{{ site.user.linkedin }}">
 							<span class="icon icon-linkedin"></span>
 							<span class="username"> {{ site.user.linkedin }}</span>
 						</a>
@@ -40,10 +47,6 @@
 					{% endif %}
 
 				</ul>
-			</div>
-
-			<div class="footer-col footer-col-2">
-				<p class="text">{{ site.description }}</p>
 			</div>
 		</div>
 
