@@ -1,13 +1,38 @@
 # Site settings
 title: jorgecasas.github.io
-email: jorgecasas@iternova.net
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jorgecasas.github.io" # the base hostname & protocol for your site
-twitter_username: jorgecasas
-github_username:  jorgecasas
+
+google:
+  webfont: Lato 
+  analytics_id: UA-57053170-1
+
+disqus:
+  id: jorgecasas
+
+# User info
+user:
+  email: jorgecasas@iternova.net
+  twitter: jorgecasas
+  github:  jorgecasas
+  linkedin:  jorgecasas
+
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 
 
+# Filtering Content
+show_drafts: null
+permalink: date
+future: true
+unpublished: false
+
+
+# Outputting
+permalink: date
+limit_posts: 10
+paginate_path: /page:num
+share: true

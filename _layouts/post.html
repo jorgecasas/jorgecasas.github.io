@@ -11,7 +11,8 @@ layout: default
   <article class="post-content">
     {{ content }}
     
-    {% include disqus.html %}
+    {% if site.share %}{% include share.html %}{% endif %}
+    {% if site.disqus.id %}{% include disqus.html %}{% endif %}
   </article>
 
 </div>

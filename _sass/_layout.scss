@@ -4,10 +4,13 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+	width: 100%;
+	height: 56px;
+	z-index: 100;
+	background: $background-color-header;
 }
 
 .site-title {
@@ -58,15 +61,6 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
         }
 
         .trigger {
@@ -94,6 +88,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+	background: $background-color-header;
 }
 
 .footer-heading {
@@ -126,13 +121,8 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+    width:         calc(65% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -142,10 +132,6 @@
         width:         calc(50% - (#{$spacing-unit} / 2));
     }
 
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
 }
 
 @include media-query($on-palm) {
@@ -162,7 +148,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit-header 0 $spacing-unit-footer 0;
 }
 
 .page-heading {
