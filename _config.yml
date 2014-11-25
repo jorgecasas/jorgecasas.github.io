@@ -14,6 +14,8 @@ disqus:
 
 # User info
 user:
+  logo: jorgecasas.jpg
+  name: Jorge Casas
   email: jorgecasas@iternova.net
   twitter: jorgecasas
   github:  jorgecasas
@@ -37,3 +39,18 @@ permalink: date
 limit_posts: 10
 paginate_path: /page:num
 share: true
+
+# Gems >> gem install GEM >> gem update
+#gems: ['jekyll-twitter-plugin']
+
+# Plugin - sitemap 
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
