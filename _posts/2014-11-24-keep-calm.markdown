@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Keep calm"
+date:   2014-11-24 22:55:00
+categories: blog
+---
+
+
+**¡Que no panda el cúnico!** No hay nada como parecer tranquilo para que a tu alrededor se pongan nerviosos... lo cual puede significar que sabes perfectamente lo que está pasando o que no tienes ni idea de lo que está pasando...
+
+
+> - Bruno, tranquilo...
+> - ¡NO, MAMÁ, TRANQUILO NO!
+>
+> [@brunocasasabos](https://twitter.com/brunocasasabos) - 2 años
+
+
+Tratar de mantener la calma respirando profundo, contando hasta diez... hasta veinte... hasta trescientos cuarenta y siete... Pedir paciencia, porque como me dé la fuerza... como me dé la fuerza... Ser como un pato, parecer tranquilo en la superficie sin dejar de patalear debajo del agua... 
+
+Tener un plan B, y un C. Quizá un D... Un plan de emergencia, que sea realizable... Todo lo que pueda pasar pasará cuando menos te lo esperes, así que no hay que preocuparse ni ponerse nervioso... El primer día que un CTO se va de vacaciones se van a caer todos los servidores (y esto es algo que deberías saber). Así que la próxima vez que se caiga un sistema que estés utilizando, acuérdate que en ese mismo instante le está dando un infartito o dos a varios técnicos... 
+
+Lo mejor es parecer tranquilo...
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/-OvMkLCrUtY" frameborder="0" allowfullscreen></iframe>
