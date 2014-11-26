@@ -1,0 +1,24 @@
+---
+layout: page
+---
+<ul class="post-list">
+
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% if tag == page.tag %}
+    <li>
+      <h1><a class="post-link" href='{{post.url}}'>{{post.title}}</a></h1>
+      
+      <div class="post-content">
+        <span class="post-meta">{{post.date | date: "%Y-%m-%d"}} >> </span>
+      {{post.excerpt}}<br/>
+
+          {% for tag in post.tags %}
+          <span class="label label-info"><a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a></span> 
+          {% endfor %}
+      </div>
+    </li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ul>

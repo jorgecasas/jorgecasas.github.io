@@ -3,6 +3,8 @@ layout: post
 title:  "Keep calm"
 date:   2014-11-24 22:55:00
 categories: blog
+tags:
+- blog
 ---
 
 

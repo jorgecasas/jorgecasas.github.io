@@ -10,7 +10,9 @@
 			<div class="trigger">
 			{% for page in site.pages %}
 				{% if page.title %}
-					<a class="page-link" href="{{ page.url | prepend: site.baseurl }}"> {% if page.icon-menu %}<span class="icon {{ page.icon-menu }}"></span> {% endif %}{{ page.title }}</a>
+					{% if page.permalink %}
+						<a class="page-link" href="{{ page.url | prepend: site.baseurl }}"> {% if page.icon-menu %}<span class="icon {{ page.icon-menu }}"></span> {% endif %}{{ page.title }}</a>
+					{% endif %}
 				{% endif %}
 			{% endfor %}
 			</div>
