@@ -35,7 +35,7 @@ unpublished: false
 
 
 # Outputting
-permalink: date
+permalink: /:year/:month/:day/:title/
 limit_posts: 10
 paginate_path: /page:num
 share: true
