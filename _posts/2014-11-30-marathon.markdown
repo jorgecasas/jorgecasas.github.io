@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Marathon"
+date:   2014-11-30 18:55:00
+categories: blog projects run
+tags:
+- blog
+- projects
+- run
+---
+
+| Durante algún tiempo, [uno de mis proyectos inacabados]({{ site.url }}/2014/11/26/proyectos-inacabados) fue el de correr una maratón. En el 2008 lo taché de la lista, pero ya ha pasado bastante tiempo de aquello, corriendo la maratón de Zaragoza... <br/><br/>Cuando la gente cuenta cómo fue su primera vez siempre te cuenta historias y experiencias, y aprovechando que vuelvo a tener ganas de correr otra maratón (para que sea el 1-0 con la compañía de [@lazarovicenteperez](https://twitter.com/lazarovicenteperez)), voy a contar cómo fue la mía. Quizá esto pueda ayudar a alguien que esté indeciso, que le apetezca correr su primera maratón, o que se haya hecho _runner_ (que corre porque sí). <br/><br/>La primera vez que corrí La Distancia (42,195 Km) no estuvo mal. Fue un día bastante interesante, de los pocos que en Zaragoza sale sin viento y sin calor. **Yo cometí todos los errores que en principio no se deben cometer**, y es por eso que no siento que fuera una maratón demasiado dura. | ![Km 31]({{ site.url }}/assets/images/2014-11-30-marathon.jpg) |
+
+La maratón es realmente todo el entrenamiento acumulado durante meses, y solo el día de la competición es el día que finaliza ese proceso. En mi caso, la maratón es de las pocas carreras que pasado un tiempo notas que te ha cambiado como corredor. Aprendes a conocer tu cuerpo. Hasta ese día no lo conocía tanto. Y aprendes. Aprendes de todos los errores que no debes cometer en las siguientes.
+
+Los errores de los que hablaba los puedo resumir en varios puntos, que los comentaré a continuación por si pueden ser de ayuda a alguien...
+
+La próxima vez entrenaré (más)
+------------------------------
+
+Cuando corrí la primera maratón no cumplí ni plazos, ni nada... simplemente me propuse correr y acabar una maratón para tacharla de la lista de deseos, y en fechas que no me influyeran en las próximas competiciones que tenía en mente (la temporada de cross). 
+
+Así que a mitad de agosto me planteé correr el campeonato de España de media maratón (ya que tenía la mínima para el mismo por primera vez y me hacía ilusión) y después correr una maratón que me pillara bien de fechas (es decir, no mucho más tarde). El campeonato de España fue en Valladolid, y llegaba con 1:14:08 de MMP. Pensaba que con acabar allí en 1:20:00 me iba contento porque no había entrenado más que 3 o 4 días a la semana, no más de 9-10Km cada día (salvo uno que me perdí por el monte y acabé haciendo hora y cuarto)... 
+
+Es decir... ese verano (los meses anteriores a la maratón / media maratón) no pasé de 40-45 Km semanales. No pasé todo el proceso que es realmente la maratón (los 3-4-5 meses de entrenamiento que recomiendan). Tampoco hice tiradas largas, ni series... solo rodajes...
+
+Aún así, resultó que acabé en 1:14:16 en la media maratón... por lo que para no entrenar casi no estaba tan mal...
+
+
+La próxima vez descansaré (más)
+-------------------------------
+
+No se puede decir que ese verano no estuviera descansado. Pero aún así, la próxima vez que corra una maratón me planificaré mejor y descansaré más (si puedo). 
+
+Después de correr el campeonato de España de media maratón, lo siguiente que hice fue darme unos cuantos masajes y correr la maratón de Zaragoza a la semana siguiente. Esto es uno de los mayores errores que no volveré a cometer. ¡Aprended de los errores de los demás!
+
+
+La próxima vez me hidrataré (más)
+---------------------------------
+
+Una de las consecuencias de vivir en Zaragoza es que aprendes a protegerte del viento y de la humedad en invierno (benditos cortavientos, guantes, mallas, bluffs y gorros...) y a hidratarte en primavera, verano y otoño (benditos portabotellines). En eso no tenía dudas de que lo iba a hacer bien, y en principio así fue. No llevé geles (no los había probado hasta entonces), y como sí que he corrido / entrenado muchas veces con el _fuel_ que nos proporcionaban los avituallamientos (plátanos, bebidas isotónicas...) no me arriesgué (aunque en la próxima maratón que corra entrenaré y probaré a tomar los geles).
+
+Comí en todos los avituallamientos, bebí en todos... y ĺlegué a meta sin sensación de estar completamente deshidratado. Eso sí, en el Km 30 nos dieron una botella _azul_ de bebida isotónica empalagosa, le di un par de sorbos y de tan dulce la tiré. Pasados varios días, reflexionando y asimilando las sensaciones, si me vuelven a dar esa misma _bebida imbebible_ (por llamarlo de alguna manera) me la bebería hasta la última gota. 
+
+Como anécdota sobre la _bebida azul_ que era un 50% azúcares, comentar que vi a algún corredor echársela por encima (del calor que estaba pasando). Esa sensación no debe ser buena (la de echarse la bebida pegajosa por encima, digo). 
+
+Y es que en los avituallamientos se ven cosas... por ejemplo que primero daban los plátanos y pasado el avituallamiento la vaselina, y no al revés (no vaya a ser que te comas la vaselina y te untes el plátano)...
+
+
+La próxima vez sufriré (en el muro)
+-----------------------------------
+
+Estoy convencido de que en la próxima maratón que corra sufriré. Como ya he contado, mi única intención era terminar la maratón, tacharla de la lista, y a otra cosa. No llevaba ninguna marca en mi cabeza, pensaba que si bajaba de las 3 horas acabaría más que contento. 
+
+Así que cuando en el Km 31 miré el reloj y vi que llevaba 2 horas justas, y que iba con fuerzas todavía, me emocioné. Y cuando 100 metros más allá me di cuenta de que mis piernas no andaban, que las pulsaciones no subían, que el reloj marcaba que había bajado 30-40 segundos el ritmo por cada Km, tampoco me asusté. 
+
+Casi que me alegré: **Estoy en el muro**
+
+Amigos que ya eran expertos en maratón me advirtieron: _A partir del Km 36 entrarás en el muro... prepárate porque es muy duro y lo vas a pasar mal_. Yo estaba en el Km 31, y estaba feliz.
+
+No forcé, me limité a escuchar a mi cuerpo. Me daba igual ir 40 segundos más lento cada Km, cada vez costaba más llegar al siguiente. Además, estábamos en la zona más fea de toda la maratón (ni una triste alma animándonos por las afueras de Zaragoza). Pero era una sensación única, no era el agobio de otras carreras en las que sufrías porque por atrás te pillaban y los de delante se te iban... aquí todos íbamos igual. No se escapaban, no te pillaban... la soledad del corredor de fondo en las grandes avenidas. El dolor del muro es diferente al resto de dolores que he notado alguna vez corriendo. 
+
+Es el punto en el que manda la cabeza frente al cuerpo. Yo tenía claro que no iba a abandonar, simplemente quería llegar, me daba igual la marca... y aún así tu cabeza te dice que qué estás haciendo aquí. En el Km 33 intenté animarme (después de 2 Km ya de muro). _Venga, Jorge, que solo quedan 9 Km..._, y enseguida mi mente me recordaba que esa era la distancia de uno de mis entrenamientos estivales.
+
+Hasta que ya por fin llegas al Km 40. Y casi casi está. Y el Km 41. Y casi casi está. Y la larga recta de meta de casi 1 Km... Y casi casi está... Y al fin está...
+
+La próxima vez escucharé a mi cuerpo (y lo entenderé)
+-----------------------------------------------------
+
+Una de las cosas que más me llamó la atención tras mi primera maratón fue que tuve sensaciones que no he tenido en ninguna otra carrera. 
+
+* ¿Se puede ir al baño antes de la carrera 3 veces en cinco minutos? Sí, salir de un baño y de nervios meterte en otro de al lado.
+* ¿Se puede estar sentado durante 1 hora después de la carrera y que tus pulsaciones no bajen de 120 ppm? Sí... una hora sentado después de 3 horas corriendo fue como hacer un entrenamiento suave...
+* ¿Te pueden doler más los brazos que las piernas después de correr una maratón? Sí... hasta pasados varios días no me empezaron a doler las piernas, ¡pero los brazos los tuve con agujetas desde una hora después de la maratón!. Eso sí, tras unos días, notas que has destrozado fibras y células de los músculos sin control, y puedes tardar varios meses en recuperarte...
+* ¿Se puede sentir una emoción indescriptible tras correr una carrera? Pues parece ser que sí...
+
+_El cuerpo humano es increíble..._ esto lo pienso desde entonces... Por eso cuando alguien me pregunta sobre si podría correr una maratón lo que les digo es que un 10K se puede correr (o acabar) con un poco de constancia y entrenamiento, que una media maratón la puede correr cualquiera que se lo proponga y siga un plan de entrenamiento (con constancia, sin pasarse pero sin dejarlo y sin hacer muchas tonterías)...
+
+Pero una maratón requiere algo más. Requiere unas mínimas condiciones físicas, requiere constancia y varios meses para prepararla (e incluso recomendable tener una base mayor, de un año mínimo) y seguir un plan de entrenamiento planificado y con seguimiento por parte de entrenadores con experiencia. Supone ir quemando etapas. Una maratón ya no es para cualquiera (que aprecie mínimamente su vida). Yo llevo corriendo toda mi vida, tengo bastante buena base (no los últimos años, pero en su día la tuve), pero mirando hacia atrás hice una gran locura.
+
+
+La próxima vez terminaré igual de contento (pase lo que pase)
+-------------------------------------------------------------
+
+Entré en meta en el puesto 35, con un tiempo de 02:49:57. Al final tuve que esprintar esos 195 metros (_los más duros_) para bajar de 2:50:00. Es una sensación de felicidad inexplicable. La próxima vez espero terminar igual de contento, haga lo que haga. Al final el tiempo es lo de menos (sé que puedo recortar bastantes minutos, pero la maratón no depende únicamente de lo que deseas...)
+
+En la próxima maratón estoy seguro que no cometeré estos errores (cometeré otros), y que al final lo que importa es el camino recorrido. Para una marca hay muchos factores, muchos que no pueden controlarse o que por tu situación prefieres no poder cumplir (yo prefiero irme a jugar toda la mañana con [@brunocasasabos](https://twitter.com/brunocasasabos) al parque con la pelota, con la bici o a volar la cometa y perderme el entrenamiento...)
+
+Por eso, por intentarlo y correrla con mis amigos ([@lazarovicenteperez](https://twitter.com/lazarovicenteperez), va a ser un 1-0 claro XD ), acabaré igual de contento. Porque después de acabar una maratón como la acabé yo, no puedes estarlo más.
+
