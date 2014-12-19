@@ -9,7 +9,15 @@ tags:
 - run
 ---
 
-| Durante algún tiempo, [uno de mis proyectos inacabados]({{ site.url }}/2014/11/26/proyectos-inacabados) fue el de correr una maratón. En el 2008 lo taché de la lista, pero ya ha pasado bastante tiempo de aquello, corriendo la maratón de Zaragoza... <br/><br/>Cuando la gente cuenta cómo fue su primera vez siempre te cuenta historias y experiencias, y aprovechando que vuelvo a tener ganas de correr otra maratón (para que sea el 1-0 con la compañía de [@lazarovicenteperez](https://twitter.com/lazarovicenteperez)), voy a contar cómo fue la mía. Quizá esto pueda ayudar a alguien que esté indeciso, que le apetezca correr su primera maratón, o que se haya hecho _runner_ (que corre porque sí). <br/><br/>La primera vez que corrí La Distancia (42,195 Km) no estuvo mal. Fue un día bastante interesante, de los pocos que en Zaragoza sale sin viento y sin calor. **Yo cometí todos los errores que en principio no se deben cometer**, y es por eso que no siento que fuera una maratón demasiado dura. | ![Km 31]({{ site.url }}/assets/images/2014-11-30-marathon.jpg) |
+Durante algún tiempo, [uno de mis proyectos inacabados]({{ site.url }}/2014/11/26/proyectos-inacabados) fue el de correr una maratón. En el 2008 lo taché de la lista, pero ya ha pasado bastante tiempo de aquello, corriendo la maratón de Zaragoza... 
+
+
+![Km 31]({{ site.url }}/assets/images/2014-11-30-marathon.jpg)
+
+Cuando la gente cuenta cómo fue su primera vez siempre te cuenta historias y experiencias, y aprovechando que vuelvo a tener ganas de correr otra maratón (para que sea el 1-0 con la compañía de [@lazarovicenteperez](https://twitter.com/lazarovicenteperez)), voy a contar cómo fue la mía. Quizá esto pueda ayudar a alguien que esté indeciso, que le apetezca correr su primera maratón, o que se haya hecho _runner_ (que corre porque sí). 
+
+La primera vez que corrí La Distancia (42,195 Km) no estuvo mal. Fue un día bastante interesante, de los pocos que en Zaragoza sale sin viento y sin calor. **Yo cometí todos los errores que en principio no se deben cometer**, y es por eso que no siento que fuera una maratón demasiado dura. 
+
 
 La maratón es realmente todo el entrenamiento acumulado durante meses, y solo el día de la competición es el día que finaliza ese proceso. En mi caso, la maratón es de las pocas carreras que pasado un tiempo notas que te ha cambiado como corredor. Aprendes a conocer tu cuerpo. Hasta ese día no lo conocía tanto. Y aprendes. Aprendes de todos los errores que no debes cometer en las siguientes.
 

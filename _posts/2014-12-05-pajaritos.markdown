@@ -9,7 +9,9 @@ tags:
 - retro
 ---
 
-| Pajaritos es [uno de mis proyectos inacabados]({{ site.url }}/2014/11/26/proyectos-inacabados) que podrían ser considerados _semiacabados_. Era el año 2001, en mitad de mi vida universitaria, y apenas habíamos programado nada en toda la carrera... Así que un verano decidí coger un libro de programación orientada a objetos (Java!) porque entonces apenas había recursos para programar en Internet y había que leer cosas en papel. Eran otros tiempos en los que en la Universidad se estudiaba Pascal como lenguaje de programación... <br/>Y como **para aprender hay que hacer**, decidí realizar un proyecto con todas las fases... de manera que desde el primer día fui aplicando los conocimientos rudimentarios que iba teniendo en [OOP](http://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos).  | ![La vaca del juego]({{ site.url }}/assets/images/2014-12-06-pajaritos.gif) |
+Pajaritos es [uno de mis proyectos inacabados]({{ site.url }}/2014/11/26/proyectos-inacabados) que podrían ser considerados _semiacabados_. Era el año 2001, en mitad de mi vida universitaria, y apenas habíamos programado nada en toda la carrera... Así que un verano decidí coger un libro de programación orientada a objetos (Java!) porque entonces apenas había recursos para programar en Internet y había que leer cosas en papel. Eran otros tiempos en los que en la Universidad se estudiaba Pascal como lenguaje de programación... 
+
+Y como **para aprender hay que hacer**, decidí realizar un proyecto con todas las fases... de manera que desde el primer día fui aplicando los conocimientos rudimentarios que iba teniendo en [OOP](http://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos). 
 
 El proyecto que decidí realizar era un juego que por aquellos entonces habíamos encontrado en [disquetes](http://es.wikipedia.org/wiki/Disquete) de los que regalaban con las revistas (o algún [CD](http://es.wikipedia.org/wiki/Disco_compacto), que ya existían...): **[Moorhuhn](http://www.moorhuhn.de)**.
 
@@ -23,6 +25,8 @@ Los gráficos eran como eran en el año 2000:
 
 * Fondos en 2D para los fondos (sin efectos de [paralaje](http://es.wikipedia.org/wiki/Paralaje), pero con unas montañas que parecía que estaban más cercanas que las del fondo), realizados con Paint Shop Pro con el ratón y poco más... 
 * Personajes en 3D desarrollados con [POVRAY](http://www.povray.org/), entre los que se encuentran los GIF animados de los pájaros que vuelan sin control, los pollos asados en los que se convertirán al ser disparados, y la vaca.
+
+![La vaca del juego]({{ site.url }}/assets/images/2014-12-06-pajaritos.gif)
 
 El audio del videojuego era lo más llamativo:
 
