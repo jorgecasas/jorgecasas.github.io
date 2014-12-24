@@ -17,7 +17,7 @@ La cápsula es la estructura en la que introduciremos todos los componentes elec
 
 Como la sonda va a subir bastante alto (unos 30 Km), la cápsula debe ser el aislante necesario para proteger los dispositivos electrónicos. Estos dispositivos tienen un rango de temperaturas de operación (es decir, por encima o debajo de dicho rango de temperaturas o no funcionarán o es fácil que deje de hacerlo de forma correcta). Por ello, el aislante de la cápsula debe soportar temperaturas de hasta -60 ºC. El siguiente gráfico muestra la temperatura aproximada según la altitud
 
-![Temperatura según altitud]({{ site.url }}/assets/images/2014-12-25-proyecto-sonda-ii-02.jpg)
+![Temperatura según altitud]({{ site.url }}/assets/images/2014-12-24-proyecto-sonda-ii-02.jpg)
 
 Por ello, la cápsula debe tener ciertas características:
 
@@ -27,7 +27,7 @@ Por ello, la cápsula debe tener ciertas características:
 
 La **solución más barata**, que como ya comenté era uno de los objetivos del proyecto, es... **una nevera portatil**:
 
-![La cápsula espacial... ideal para refrescar las latas de bebida]({{ site.url }}/assets/images/2014-12-25-proyecto-sonda-ii.jpg)
+![La cápsula espacial... ideal para refrescar las latas de bebida]({{ site.url }}/assets/images/2014-12-24-proyecto-sonda-ii.jpg)
 
 Cumple con todos los requisitos:
 
