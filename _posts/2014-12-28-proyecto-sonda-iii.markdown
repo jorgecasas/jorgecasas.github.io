@@ -101,7 +101,7 @@ Por ejemplo:
 * [HobbyLinc.com](http://www.hobbylinc.com/model-rocket-recovery) - Tienda de hobbies (_rockets_). Tienen una sección muy extensa de paracaídas para cohetes, que nos servirían (buscar _parachutes_, hay que asegurarse que sean de nylon)
 * [Amain.com](http://www.amain.com/search?s=parachute) - Tienda de hobbies, con varios paracaídas de todo tipo (de pĺástico y nylon)
 * [IntoTheWind.com ](http://www.intothewind.com/shop/Line_and_Accessories/Kite_Swivels) - Tienda de cometas, tienen anclajes, cuerdas...
-* [Parachute-Cord.com]](http://www.parachute-cord.com) - Cuerdas de paracaídas profesionales
+* [Parachute-Cord.com](http://www.parachute-cord.com) - Cuerdas de paracaídas profesionales
 
 
 Índice del Proyecto SONDA
