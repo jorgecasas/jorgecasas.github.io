@@ -88,6 +88,7 @@ Recordad que tienen que ser de **nylon** para resistir los rayos UV...
 
 Por ejemplo:
 
+*[High Altitude Science](http://www.highaltitudescience.com/collections/all) - Página informativa y con tienda sobre la _exploración espacial_ casera. Tienen prácticamente de todo (desde globos de helio, que veremos en los próximos posts, hasta sistemas de recuperación y paracaídas)
 * [Apogee Rockets](http://www.apogeerockets.com/) - Tienda muy especializada en hobbies de lanzamiento y creación de cohetes (_rockets_). Tienen una gran variedad de paracaídas de nylon, así como otros complementos que pueden ser de utilidad.
 * [Model Rockets Parachutes](http://www.modelrocketparachutes.com/) - Tienda especializada en hobbies de lanzamiento y creación de cohetes (_rockets_). Tienen una gran variedad de paracaídas de nylon, así como otros complementos que pueden ser de utilidad.
 * [GreatHobbies.com](http://www.greathobbies.com/) - Tienda de hobbies (_rockets, radio control, planes_). Varios paracaídas de todo tipo (de pĺástico y nylon) desde unos pocos dólares.
