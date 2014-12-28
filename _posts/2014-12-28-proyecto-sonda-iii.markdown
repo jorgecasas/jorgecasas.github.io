@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proyecto SONDA (III)"
+title:  "Proyecto SONDA (III) - Sistemas de recuperación (parachute)"
 date:   2014-12-28 10:35:00
 categories: projects sonda
 tags:
@@ -67,16 +67,22 @@ Antes de enviar a la estratosfera nuestra sonda, habrá que testear todos los co
 Anillo de sujección
 -------------------
 
-El anillo de sujección es un anillo circular (de diámetro similar al ancho de la cápsula), para atar a él de forma centrada el paracaídas (y el globo), y la cápsula. De esta manera, todos los tirones se los lleva el anillo circular y no la cápsula: Tirones al abrirse el paracaídas en el descenso, y al ir tirando el globo en el ascenso.
+El anillo de sujección es un anillo circular (de diámetro similar al de la cápsula / _payload_), para atar a él de forma centrada el paracaídas (y el globo), y la cápsula. De esta manera, todos los tirones se los lleva el anillo circular y no la cápsula: Tirones al abrirse el paracaídas en el descenso, y al ir tirando el globo en el ascenso.
 
 * La anilla, que tendrá forma circular, puede ser un aro de los que se utilizan para coser y hacer bordados con dibujos (es decir, se vende en cualquier mercería o tienda de manualidades).
 * La anilla deberá tener agujeros de forma simétrica y equidistante, que serán los agujeros en los que se atarán por un lado el paracaídas y el globo, y por otro la cápsula. Así servirá, a su vez, de sistema de estabilización.
+
+Hay otra opción, que es la de usar una anilla de tamaño reducido, en la que encajarán el cordaje del paracaídas y del globo. Os dejo una imagen (obtenida del blog [Rowland Space Balloon](http://rowlandspaceballoon.blogspot.com.es/))
+
+![Conjunto Balloon + Parachute + Payload]({{ site.url }}/assets/images/2014-12-28-proyecto-sonda-iii-02.jpg)
+
 
 Otras ideas para este anclaje de elementos a la cápsula y al anillo de sujección:
 
 * Para atar el globo y el paracaídas a la cápsula (y si se quiere una segunda cápsula, una debajo de otra), se pueden coser / anclar arandelas (8 arandelas) en las 8 esquinas de la cápsula (que como comentamos, será una bolsa / nevera portátil), y atar allí todo lo demás. 
 * Además se pueden hacer "latiguillos" con mosquetones de tamaño pequeño (cierres de "escalada"), que permiten anclar / soltar rápidamente los diferentes elementos, a la vez que quedan mejor sujetos que con un nudo simple realizado rápidamente. Estos mosquetones pueden comprarse en tiendas de deportes / escalada, o bien en **tiendas de cometas** (en donde también suelen tener paracaídas). Por ejemplo, [IntoTheWind - Tienda de cometas](http://www.intothewind.com/shop/Line_and_Accessories/Kite_Swivels) tienen una gran variedad.
 * También necesitaremos **cuerdas para paracaídas** (_parachute cords_), que resistan los rayos UV. Se pueden buscar en ''Ebay'' o ''Amazon'', también hay en tiendas especializadas (los pongo en el siguiente apartado)
+
 
 
 Enlaces de interés
@@ -102,5 +108,5 @@ Por ejemplo:
 =========================
 
 * [Proyecto SONDA - Introducción]({{ site.url }}/2014/12/18/proyecto-sonda-i)
-* [La cápsula]({{ site.url }}/2014/12/25/proyecto-sonda-ii)
-* [Sistemas de recuperación: Paracaídas]({{ site.url }}/2014/12/28/proyecto-sonda-iii)
+* [La cápsula (_payload_)]({{ site.url }}/2014/12/25/proyecto-sonda-ii)
+* [Sistemas de recuperación (_parachute_)]({{ site.url }}/2014/12/28/proyecto-sonda-iii)

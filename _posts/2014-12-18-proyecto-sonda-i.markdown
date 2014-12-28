@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proyecto SONDA (I)"
+title:  "Proyecto SONDA (I) - Introducción"
 date:   2014-12-18 19:25:00
 categories: projects sonda
 tags:

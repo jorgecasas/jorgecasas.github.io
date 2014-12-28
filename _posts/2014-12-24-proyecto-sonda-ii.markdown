@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proyecto SONDA (II)"
+title:  "Proyecto SONDA (II) - La cápsula (payload)"
 date:   2014-12-24 19:35:00
 categories: projects sonda
 tags:
@@ -10,8 +10,8 @@ tags:
 
 Hoy voy a seguir dando detalles del [Proyecto SONDA]({{ site.url }}/2014/12/18/proyecto-sonda-i) dentro de la serie de posts de [mis proyectos inacabados]({{ site.url }}/2014/11/26/proyectos-inacabados). En este segundo post voy a comentar algunos detalles teóricos con ideas para ir creando la sonda (desde su estructura hasta los componentes que llevará dentro). Hoy toca **la cápsula**...
 
-Construcción de la sonda: La cápsula
-====================================
+Construcción de la sonda: La cápsula (_payload_)
+================================================
 
 La cápsula es la estructura en la que introduciremos todos los componentes electrónicos necesarios para poder realizar el seguimiento de la sonda (GPS y radio de comunicaciones), así como las baterías que dichos dispositivos necesiten para el vuelo (que será de más de 2 horas). También servirá para anclar en ella la cámara (para tomar fotografías) así como los anclajes necesarios para el paracaídas (requerido en la vuelta a la Tierra) y el globo de helio.
 
@@ -76,4 +76,4 @@ En los siguientes capítulos de esta serie de **Proyecto SONDA** iré recopiland
 =========================
 
 * [Proyecto SONDA - Introducción]({{ site.url }}/2014/12/18/proyecto-sonda-i)
-* [La cápsula]({{ site.url }}/2014/12/25/proyecto-sonda-ii)
+* [La cápsula (_payload_)]({{ site.url }}/2014/12/25/proyecto-sonda-ii)
