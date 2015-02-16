@@ -70,6 +70,12 @@ Por otra parte, también hay que tener en cuenta que en las comunicaciones las s
 
 Por tanto, habrá que idear la forma para detectar cuándo tenemos cobertura y aprovechar para enviar la posición dentro de esas ventanas de tiempo (antes del impacto).
 
+Dónde adquirir la Raspberry Pi y otros accesorios
+=================================================
+
+He adquirido la Raspberry Pi B+ y la carcasa a través del portal [chupiganga.com](http://www.chupiganga.com/producto/raspberry-pi-b-desktop-tarjeta-de-puerto-usb-700mhz-broadcom-bcm2835-cpu-with-512mb-ram/), ya que dispone de un apartado de estos dispositivos con accesorios seleccionados.
+
+[![Chupiganga.com](http://www.chupiganga.com/files/2015/02/logo_chupiganga_nuevo_3.png)](http://www.chupiganga.com)
 
 
 Índice del Proyecto SONDA
