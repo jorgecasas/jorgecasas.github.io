@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Tools"
+date:   2015-03-11 17:35:00
+categories: tools development
+tags:
+- development
+- tools
+---
+
+Siempre me ha llamado la atención la gente que era capaz de hacer cosas. Cosas de cualquier tipo, pero sobre todo, gente capaz de hacer cosas con sus manos utilizando herramientas. Ya no solo desde la prehistoria, con la capacidad de los homínidos y sus dedos prensiles para agarrar objetos y prehistóricas herramientas, sino en la actualidad.
+
+Por ejemplo, yo no sería capaz de hacer una mesa a partir de unos tablones. O mejor dicho, sería capaz, tras mucho sufrimiento, tras muchas horas, tras cortar muchas maderas y clavar muchos clavos... y al final estaría coja. O no estaría nivelada. O se prendería fuego tras dejar cualquier cosa encima de ella.
+
+Sin embargo, otras personas son especialmente hábiles para según qué tareas. Para otras no tanto, para otras nada de nada, pero en ciertos campos se desenvuelven con soltura. Son personas con recursos para todo (dentro de sus respectivos campos). Algunas personas, eso sí, no tienen recursos en ningún campo.
+
+A mucha gente le da vergüenza dibujar cuando son adultos, pero a casi todos nos ha gustado pintar y dibujar cuando éramos pequeños. No se trata ya de no saber dibujar, sino de haber dejado de practicar. El diablo sabe más por viejo que por diablo, y es por ello que, tras muchas horas de ser diablo, llega a ser un experto en diabluras. Dicen que para ser experto piloto hacen falta unas 10000 horas de vuelo, para el diablo debieron ser algunas más.
+
+Aún así, hay algunos campos que no llegarás a ser experto nunca. Bien por incapacidad o limitaciones propias, bien por falta de tiempo, bien porque el campo es tan amplio y extenso que es imposible alcanzar sus horizontes... Cuando llegas al grado de experiencia que podrías considerarte como experto, te das cuenta de que el horizonte sigue estando más adelante (en el propio horizonte para ser exactos).
+
+Y no solo es cuestión de tiempo. En muchas ocasiones se necesitan herramientas para hacer las cosas. Es cierto que hay tareas que pueden ser realizadas sin las herramientas adecuadas, pero tener una buena herramienta ayuda.
+
+En el caso del desarrollo no basta con tener un ordenador decente. Eso está bien, y puedes hacer tus proyectos, pero si vas a trabajar durante mucho tiempo conviene tener un buen equipo, un buen teclado, un buen monitor, buenas aplicaciones... porque todo ello, aunque no te des cuenta, ayuda a realizar tu trabajo de forma más eficiente y cómoda.
