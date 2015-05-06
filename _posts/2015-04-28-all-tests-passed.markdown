@@ -8,7 +8,7 @@ tags:
 - test
 ---
 
-Uno de las claves en cualquier desarrollo (o cualquier cosa que realicemos de forma manual / programada), sea del tipo que sea, es comprobar que funciona. Si funciona es que es_probablemente_ la hayamos desarrollado de forma correcta. Y digo _probablemente_ porque no siempre es así. A veces algo que funciona mal funciona bien (o eso creemos). O el mal funcionamiento es una nueva funcionalidad.
+Una de las claves en cualquier desarrollo (o cualquier cosa que realicemos de forma manual / programada), sea del tipo que sea, es comprobar que funciona. Si funciona es que es_probablemente_ la hayamos desarrollado de forma correcta. Y digo _probablemente_ porque no siempre es así. A veces algo que funciona mal funciona bien (o eso creemos). O el mal funcionamiento es una nueva funcionalidad.
 
 ![100% tests passed succesfully!]({{ site.url }}/assets/images/2015-04-28-all-tests-passed.jpg)
 

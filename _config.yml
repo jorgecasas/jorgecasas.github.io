@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jorgecasas.github.io" # the base hostname & protocol for your site
 
 google:
-  webfont: Lato 
+  webfont: Oxygen 
   analytics_id: UA-57053170-1
 
 disqus:
