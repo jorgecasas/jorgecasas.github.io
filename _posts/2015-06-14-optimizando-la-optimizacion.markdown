@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Optimizando la optimización"
-date:   2015-04-28 17:35:00
+date:   2015-06-14 19:35:00
 categories: development
 tags:
 - development
