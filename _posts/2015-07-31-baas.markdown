@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Bug as a Service"
+date:   2015-07-31 17:35:00
+categories: development test bugs
+tags:
+- development
+- test
+- bugs
+---
+
+Hoy ha ocurrido una cosa curiosa: **Hemos detectado un _bug_ en una aplicación móvil**. En algunos casos, los _bugs_ suelen ser debidos a pequeños despistes o dislexias a la hora de escribir nombres de variables de las aplicaciones, pero en otros casos los _bugs_ pueden ser los propios usuarios. 
+
+![100% bug free guaranted!]({{ site.url }}/assets/images/2015-07-31-baas.jpg)
+
+**Muchos _bugs_ son indetectables**. Por muchos [tests unitarios o de integración]({{ site.url }}/2015/04/28/all-tests-passed/), el _bug_ lo va a encontrar un usuario que hace cosas de manera habitual o un usuario que hace cosas de manera poco ortodoxa. En cualquier caso, el soporte técnico lo debe corregir (priorizando, claro está, según sea más o menos crítico). 
+
+**Otros _bugs_ son como ninjas**: Están escondidos y nadie puede verlos, pero en cuanto aparecen te van a causar un destrozo. En estos casos, el problema no se da en prácticamente el 99% de los casos, pero para un estado dado el _bug_ puede estar produciéndos (por ejemplo, una variable que toma un rango de valores específicos de entrada y para ninguno da problemas, salvo si el valor toma un valor de 7,2827 ). Por supuesto, en ningún test de pruebas se va a dar ese bug hasta que esté en producción.
+
+**Algunos _bugs_ ni siquiera son _bugs_**. Son deseos de los usuarios con ideas: Si a mí me parece que un botón debe ser de color azul y es de color amarillo, es un _bug_. Y como _bug_, se debe corregir...
+
+Hay _bugs_ tan complejos que se convierten en **nuevas funcionalidades** del sistema: _It's not a bug, it's a feature!_ 
+
+Y por último están los **bugs televisivos**, en los que tú eres el protagonista: 
+
+* **_Bugs de CSI_**: Te hacen convertirte en un policía de CSI. Tienes que ir buscando pruebas (revisando logs) e ideando posibles escenarios del crimen, hasta que descubres que el usuario era el que estaba haciendo cosas raras o teniendo despistes como no tener el router encencido. En estos casos, y como buen policía, tienes que capturar al delincuente y juzgarlo.
+* **_Bugs de Doctor House_**: En estos casos, tú eres el doctor House. Tienes un servidor o un sistema que falla, pero no sabes muy bien el porqué. Vas haciendo diferentes pruebas, analizando los resultados de dichas pruebas y creando diferentes teorías, hasta que descubres qué parte del sistema o servidor era el que estaba fallando y porqué y eres capaz de sanarlo y arreglarlo. O bien, se te muere el paciente, el sistema entero, el servidor, y todo el Internet. Incluso se podría prender fuego tu portatil en el intento.
+
+
+
+
+
