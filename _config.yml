@@ -35,9 +35,9 @@ unpublished: false
 
 
 # Outputting
+paginate: 5
+paginate_path: "/archives/page/:num"
 permalink: /:year/:month/:day/:title
-limit_posts: 10
-paginate_path: /page:num/
 share: true
 
 # Gems >> gem install GEM >> gem update
