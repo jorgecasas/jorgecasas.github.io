@@ -21,3 +21,7 @@ Compuse unas cuantas canciones, e incluso las subí a alguna plataforma de distr
 ![Relax... and destroy your computer]({{ site.url }}/assets/images/2015-10-27-andres-calamardo-segunda-parte-02.jpg)
 
 Lo sorprendente es que no me haya hecho famoso todavía... 
+
+## Updated 2015-11-02
+
+En Linux hay estudios de grabación similares a los anteriormente comentados, como [LMMS](https://lmms.io/documentation/Your_First_Song_with_LMMS). Se puede seleccionar un instrumento, arrastrarlo al _Editor de canción_, indicar que su entrada es el dispositivo MIDI (el teclado, _MIDI input_), seleccionar los rangos temporales en el editor que se quieren editar y sobre ellos, con el botón derecho del ratón abrir el _Piano roll_ para ir grabando las notas... 

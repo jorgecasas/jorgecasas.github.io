@@ -33,4 +33,3 @@ Tras iniciar el servidor jackd (mediante qjackctl), el sintetizador (fluidsynth 
 Y hecho esto, subimos el volumen, le ponemos a Bruno los auriculares y ya puede estar horas tocando sus canciones en el piano. Algún día sonarán bien (y es que la práctica es el camino a la perfección).
 
 ![Bruno en su estudio de grabación casero]({{ site.url }}/assets/images/2015-10-22-andrescalamardo-02.jpg)
-
