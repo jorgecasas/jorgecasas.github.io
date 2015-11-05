@@ -42,7 +42,10 @@ ul, ol, dl, figure,
  */
 img {
     vertical-align: middle;
-	padding: 0 $spacing-unit / 2;
+	padding: 0;
+    width: 100%;
+    height: 100%;
+    margin: auto;
 }
 
 
