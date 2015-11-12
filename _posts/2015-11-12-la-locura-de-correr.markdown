@@ -45,9 +45,9 @@ Where is the limit?
 
 Me hace gracia esta frase tan de moda últimamente que gente se repite o se tatúa como un mantra. _Where is the limit?, Where is the limit! WHERE IS THE LIMIT!!!_ Ya se ha visto esta semana. Sí, hay límites, aunque no quieras verlos. Y a veces están más cerca de lo que nos parecen.
 
-Llevo corriendo prácticamente toda mi vida (cerca de 30 años ya, desde categoría benjamín), suelo estar en forma, he corrido más de 30 medias maratones y una maratón, varios campeonatos de España... Creo que tengo un poco de experiencia en esto de _correr_. Y por viejo (que no que por sabio), he aprendido que es conveniente saber dónde estás en cada momento. Hay cosas a las que gente que corre desde hace poco (desde que se inició hace pocos años la moda _running_) no les tiene respeto alguno. 
+Llevo corriendo prácticamente toda mi vida (cerca de 30 años ya, desde categoría benjamín), suelo estar en forma, he corrido más de 30 medias maratones y una maratón, varios campeonatos de España... Creo que tengo un poco de experiencia en esto de _correr_. Y por viejo (que no por sabio), he aprendido que es conveniente saber dónde estás en cada momento. Hay cosas a las que gente que corre desde hace poco (desde que se inició hace pocos años la moda _running_) no les tiene respeto alguno. 
 
-Se piensan que pueden correr una carrera de montaña de más de 40 - 50 - 60 - 90 - 100 Km y acabar frescos, se piensan que por no ir corriendo todos esos Km el cuerpo no sufre. Si estás 5 horas andando por la ciudad o de tiendas y acabas cansado, imagínate el esfuerzo que conlleva hacerlo por el monte. Por muy entrenado que estés, **la montaña es peligrosa, las distancias engañan a cielo abierto. Tened cuidado**.
+Se piensan que pueden correr una carrera de montaña de más de 40 - 50 - 60 - 90 - 100 Km y acabar frescos, se piensan que por no ir corriendo todos esos Km el cuerpo no sufre. Si estás 5 horas andando por la ciudad o de tiendas y acabas cansado, imagínate el esfuerzo que conlleva hacerlo por el monte. Por muy entrenado que estés, **la montaña es peligrosa, las distancias engañan a cielo abierto. Tened cuidado**. No hagáis caso de los vende-humos...
 
 
 Conclusión
