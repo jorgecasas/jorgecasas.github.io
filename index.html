@@ -8,7 +8,7 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-        <div class="post-content"><span class="post-meta">{{ post.date | date: "%Y-%m-%d" }} >> </span>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} </div>
+        <div class="post-content"><div class="post-meta">{{ post.date | date: "%Y-%m-%d" }} >> <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Feedback && Comments!</a></div>{{ post.content }} </div>
         
       </li>
     {% endfor %}

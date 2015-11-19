@@ -35,7 +35,7 @@ unpublished: false
 
 
 # Outputting
-paginate: 5
+paginate: 3
 paginate_path: "/archives/page/:num"
 permalink: /:year/:month/:day/:title
 share: true
