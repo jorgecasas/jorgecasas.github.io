@@ -12,7 +12,7 @@ tags:
 
 Hace unos años, la tendencia era que cualquier aplicación tuviera muchas opciones. Parecía que si no tenía doscientas barras de herramientas, con desplegables y un listado interminable de acciones y configuraciones no era buen software. Era como si los desarrolladores tuvieran que demostrar que sabían desarrollar muchas cosas y muy diferentes.
 
-![KISS en UI de la aplicación de cortafuegos gufw]({{site.url}}/assets/images/2012-12-11-kiss.jpg)
+![KISS en UI de la aplicación de cortafuegos gufw]({{site.url}}/assets/images/2015-12-11-kiss.jpg)
 
 Esta complejidad es similar a la de muchas películas de dibujos animados por ordenador, que se centran más en el espectáculo visual que en la propia historia, lo que en ocasiones devalúa el producto. Los animadores crean multitud de entornos en la historia para poder demostrar que son los mejores en su campo generando dichos entornos (los cuales suelen suponer una gran complejidad técnica para que parezcan lo más reales posibles, porque simular la naturaleza es muy complicado): agua, nieve, viento, barro, pelo, hojas de árboles y césped, arena, olas...
 
