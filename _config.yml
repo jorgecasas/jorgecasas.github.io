@@ -42,6 +42,7 @@ share: true
 
 # Gems >> gem install GEM >> gem update
 #gems: ['jekyll-twitter-plugin']
+gems: ['jekyll-paginate' ]
 
 # Plugin - sitemap 
 sitemap:

@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "KISS"
+date:   2015-12-11 10:15:00
+categories: blog development
+tags:
+- blog
+- development
+- behobiass
+---
+
+
+Hace unos años, la tendencia era que cualquier aplicación tuviera muchas opciones. Parecía que si no tenía doscientas barras de herramientas, con desplegables y un listado interminable de acciones y configuraciones no era buen software. Era como si los desarrolladores tuvieran que demostrar que sabían desarrollar muchas cosas y muy diferentes.
+
+![KISS en UI de la aplicación de cortafuegos gufw]({{site.url}}/assets/images/2012-12-11-kiss.jpg)
+
+Esta complejidad es similar a la de muchas películas de dibujos animados por ordenador, que se centran más en el espectáculo visual que en la propia historia, lo que en ocasiones devalúa el producto. Los animadores crean multitud de entornos en la historia para poder demostrar que son los mejores en su campo generando dichos entornos (los cuales suelen suponer una gran complejidad técnica para que parezcan lo más reales posibles, porque simular la naturaleza es muy complicado): agua, nieve, viento, barro, pelo, hojas de árboles y césped, arena, olas...
+
+Hoy en día, y menos mal, se tiende a crear pequeñas aplicaciones que hacen una acción determinada. Son aplicaciones minimalistas, de tamaño reducido, sin prácticamente opciones... pero que hacen lo que tienen que hacer, sin añadidos. Rara vez un usuario medio al que le gusta la fotografía utiliza los miles de filtros con los que pueda contar, por ejemplo, el famoso Photoshop... por lo que le bastará con instalarse una aplicación sencilla que con dos botones sea capaz de cortar la imagen y poco más.
+
+Además, esta sencillez o minimalismo hacen que las aplicaciones sean más usables. Al tener menos opciones, botones, desplegables... la configuración de las aplicaciones es simple, y su uso aún lo es más.
+
+Sin embargo, algunas veces estas aplicaciones pueden quedarse cortas. Es el momento en el que los desarrolladores tienen que analizar la mejor manera de añadir una nueva funcionalidad, pero sin que ello suponga una sobrecarga en los interfaces de usuario, en el peso de la aplicación, etcétera... Surgen entonces varias preguntas:
+
+* ¿Esa característica la va a usar gran parte de los usuarios? ¿O solo un 1% la va a utilizar? ¿Vale la pena desarrollarlo para que pocos usuarios la usen?
+* ¿Su desarrollo haría que el interfaz fuera menos intuitivo y usable? ¿Eso haría que usuarios habituales dejen de usar la aplicación por volverse más compleja?
+* ¿Se puede incluir la funcionalidad como una extensión o plugin de manera que solo los usuarios avanzados se lo puedan descargar e instalar?
+* ¿Será fácil de mantener la aplicación cuando crezca en tamaño y funcionalidades? ¿O el coste de mantenimiento del nuevo código no será rentable?
+
+La opción de plugins / extensiones podría ser una solución (siempre y cuando se presente la forma de instalarlas de forma muy sencilla e intuitiva para el usuario), ya que además podría ser una forma de obtener ingresos adicionales (por ejemplo, mediante suscripción o pago único para obtener las nuevas funcionalidades, de manera que cualquier usuario puede usar la versión básica de la aplicación, y los usuarios que más utilicen o requieran nuevas características las podrán adquirir de forma económica).
+
+La sencillez, por tanto, es algo muy importante a tener en cuenta, ya que cuanto más sencillo de usar sea algo, más gente podrá utilizarlo. Esto mismo pasaba al comienzo de la automoción (o los primeros ordenadores personales): Si querías conducir un vehículo en 1920 debías saber bastante de mecánica (ya que los problemas eran frecuentes y poca gente podría ayudarte), cosa que ahora mismo no es necesario, ya que incluso hay vehículos que te conducen solos...
+
+Y recordar, el principio **KISS: Keep It Simple, Stupid!**
+
