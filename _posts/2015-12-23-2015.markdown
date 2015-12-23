@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "2015"
+date:   2015-12-23 14:15:00
+categories: blog 
+tags:
+- blog
+---
+
+
+El año pasado por estas fechas hice una lista en [trello.com](https://trello.com) sobre las cosas que me apetecían hacer o aprender a lo largo del 2015. Este año 2015 ha sido un año muy bueno en todos los sentidos. En el personal, desde el nacimiento de [Martina](https://twitter.com/martinacasasab) y sus primeros meses, la diversión y alegría continua de [Bruno](https://twitter.com/brunocasasabos), pasando en lo profesional por muy buenos proyectos en [ITERNOVA](https://www.iternova.net) y [Tecnocarreteras](https://www.tecnocarreteras.es), hasta llegar a lo deportivo con el pasar a la categoría de veteranos (sí, esto es lo más remarcable de mi año deportivo)...
+
+
+
+![Feliz 2016 o más]({{site.url}}/assets/images/2015-12-23-2015.jpg)
+
+
+En cuanto a mi lista de objetivos personales para el 2015, el estado fue el siguiente:
+
+* **Crear un blog personal y mantenerlo**: Hecho. Este mismo. Tampoco es que haya escrito mucho, pero al menos aquí está.
+* **Crear una aplicación móvil y subirla a Google Play o similar**: Al 50%. He desarrollado aplicaciones móviles dentro de proyectos de ITERNOVA, y aprendido nuevas técnicas para optimizarlas, pero no he requerido subir a Google Play (son aplicaciones para uso interno).
+* **Leer libros**: Al 50%. Me he leído unos cuantos (como [Makers](http://www.amazon.es/Makers-Chris-Anderson/dp/0307720969), libro muy recomendado sobre la nueva revolución industrial...), pero tampoco he leído tanto como esperaba.
+* **Aprender a usar mejor Inskape o similar (diseño vectorial) para crear logos**: 0%. Ni he llegado a instalarlo (creo que venía ya instalado en mi distribución Linux e incluso lo desinstalé).
+* **Programar una Raspberry Pi**: Al 75%. Dentro de [mi proyecto inacabado de Sonda Espacial]({{site.url}}/2014/12/18/proyecto-sonda-i), la idea es utilizar una Raspberry Pi con una placa GPS + GPRS/3G con la que ir enviando la posición (y tomando fotografías). Tengo ya todos los componentes necesarios, solo me falta ponerme para desarrollar el código necesario para leer la posición GPS y enviarla al servidor (que ya tengo preparado, así como el código para tomar fotografías, etc...)
+* **Aprender desarrollo 3D para aprender a imprimir / crear objetos 3D**: Al 25%. He leído bastante documentación sobre cómo hacerlo, diferentes técnicas... pero no me he llegado a poner en serio. La teoría aprobada, la práctica suspenso.
+* **Correr, al menos 3-4 veces por semana**: Más o menos puedo decir que lo he cumplido (hasta Junio), pero estoy hecho un trapo. Por diferentes molestias, lesiones, falta de ganas, falta de tiempo... tampoco he tenido mucha continuidad esta última mitad de año (sobre todo por los dolores). Otro de mis objetivos deportivos fue **hacer la mínima absoluta** para ir al campeonato de España de Media Maratón (la cual no era tan dura como lo era hace años, todo hay que decirlo...), y lo conseguí por los pelos (10 segundos me sobraron) gracias a esprintar los últimos metros de la Media Maratón de Elche... Por otra parte, también pensé en preparar una Maratón, pero a los dos meses (debido a los dolores principalmente) vi que no iba a ser posible (así que lo dejamos para otro año).
+
+En cuanto a propósitos para el año que viene, los voy a simplificar. No dejan de ser muy parecidos a los de este año, con alguna cosa nueva:
+
+* Mantener este blog personal
+* Leer libros
+* Programar la Raspberry Pi (para [mi proyecto inacabado de Sonda Espacial]({{site.url}}/2014/12/18/proyecto-sonda-i))
+* Aprender desarrollo 3D para aprender a imprimir / crear objetos 3D, llegando a crear un objeto físico (probablemente, una caja para la Raspberry Pi en la que se ajusten todas las placas necesarias)
+* Correr, al menos 3-4 veces por semana, haciendo la [transición al calzado minimalista](https://twitter.com/jorgecasas/status/650983772867928064), para poder llegar a hacer una buena media maratón. En esto llevo ya unos meses, ya que debido a las diversas lesiones musculares que llevaba arrastrando durante los últimos tres/cuatro años, y tras leer muchos posts sobre ellos, me he decidido a probar a correr con zapatillas de drop 0 FiveFingers... ¡y de momento todo bien!
+* Fabricarme una bicicleta. Esto es un nuevo [proyecto inacabado]({{site.url}}/2014/11/26/proyectos-inacabados) para mi lista, en el que pretendo montar (más que fabricar) una bicicleta de montaña pieza a pieza.
+
+Y hasta aquí los buenos propósitos. ¡El año que viene más y mejor!
