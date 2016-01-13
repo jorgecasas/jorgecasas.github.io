@@ -11,7 +11,7 @@ Os voy a contar una historia con moraleja, que puede ser aplicada en muchos ámb
 
 ![La historia de Joe]({{site.url}}/assets/images/2016-01-13-la-historia-de-joe.jpg)
 
-Se trataba de un acto por la paz, en donde gente trajeada daba discursos por la paz subida a un escenario, mientras que varias personas trajeadas esperaban a que terminara el discurso para soltar las palomas blancas que tenían entre sus manos.
+La historia comienza en una plaza repleta de gente. Se trataba de un acto por la paz, en donde una señora daba un discurso por la paz mundial subida en un escenario mientras que varias personas trajeadas esperaban a que terminara el discurso para soltar las palomas blancas que tenían entre sus manos.
 
 Una de esas personas trajeadas, a la que llamaremos Joe a partir de ahora, debido a los nervios, agarraba su paloma blanca de la paz con fuerza, como para que no se le escapara antes de tiempo. Cuando terminó el discurso, todas las personas lanzaron al aire sus palomas blancas, las cuales salieron volando despavoridas.
 
