@@ -21,11 +21,11 @@ Lo que realmente sucedió es que la vida es complicada. La paloma blanca de Joe,
 
 La moraleja de esta historia no es que nos riamos del pobre Joe, que todavía no sabe dónde mirar, sino **que nos pongamos en su lugar para comprender lo que sintió ese día**. Quizá así dejemos de reirnos de él.
 
-En primer lugar, porque al ponernos en su lugar, mientras estamos esperando a que termine el discurso para soltar nuestra paloma blanca de la paz sabemos que está muerta. Por mucho que la meneemos, por mucho que movamos hacia arriba y hacia abajo nuestras manos con el pobre animal, la paloma no se mueve, o como mucho, parece un pollo de goma. Y la tenemos en nuestras manos. Muerta.
+Porque al ponernos en su lugar, mientras estamos esperando a que termine el discurso para soltar nuestra paloma blanca de la paz, sabemos que está muerta. Por mucho que la meneemos, por mucho que movamos hacia arriba y hacia abajo nuestras manos con el pobre animal, la paloma no se mueve, o como mucho, parece un pollo de goma. Y la tenemos en nuestras manos. Muerta.
 
-En segundo lugar, porque podemos ver el futuro. Sabemos que cuando acabe el discurso, si la soltamos, tal cual suba, caerá. Como si se tratara de un ladrillo. Porque sabemos que nuestra paloma blanca de la paz está muerta. Y como está muerta, no vuela.
+En segundo lugar, porque podemos ver el futuro. Sabemos que cuando acabe el discurso, si la soltamos, tal cual subirá, caerá. Como si se tratara de un ladrillo. Porque sabemos que nuestra paloma blanca de la paz está muerta. Y como está muerta, no vuela. Y la tenemos en nuestras manos. Muerta.
 
-Y en tercer lugar, porque **cualquier decisión que tomemos no es la mejor decisión**. Si la soltamos sabemos qué va a pasar. Que la paloma caerá, como un ladrillo, mientras el público asistente se reirá de nosotros. Si no la soltamos ¿Cómo no vamos a soltar una paloma blanca en un acto por la paz mundial?. A veces, hacer lo que tienes que hacer puede traer malas consecuencias, pero no hacer lo que tienes que hacer también.
+Y en tercer lugar, porque **cualquier decisión que tomemos no es la mejor decisión**. Si la soltamos sabemos qué va a pasar. Que la paloma caerá, como un ladrillo, mientras el público asistente se reirá de nosotros. Si no la soltamos... ¿Cómo no vamos a soltar una paloma blanca en un acto por la paz mundial?. A veces, hacer lo que tienes que hacer puede traer malas consecuencias, pero no hacer lo que tienes que hacer también.
 
-Por tanto, poneros en el lugar de nuestro buen amigo Joe. Él tiene una paloma blanca muerta entre sus manos. ¿Qué haríais vosotros? 
+Por tanto, poneros en el lugar de nuestro buen amigo Joe. **Él tiene una paloma blanca muerta entre sus manos. ¿Qué haríais vosotros?**
 
