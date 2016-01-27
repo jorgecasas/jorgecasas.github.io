@@ -28,9 +28,9 @@ En algunas fases del flujo de acciones que se realizan en las aplicaciones que e
 * En la página de registro de la tarea no conviene mostrar el campo de "Fecha límite para finalizar la tarea", a pesar de que la podamos calcular automáticamente al vuelo a partir de los datos introducidos en el resto de campos de formulario. 
 * Una vez registrada la tarea en el sistema, podremos acceder a la página de visualización de datos de dicha tarea. En este apartado sí que incluiremos la fecha límite, ya que el usuario debe conocerla.
 
-¿Por qué no hemos calculado y mostrado al vuelo la fecha límite de finalización en el formulario de registro? Por una sencilla razón: *El usuario no requiere conocerla hasta que no haya registrado la tarea*. Si conoce dicha fecha de finalización mientras registra la tarea, podría ir modificando el resto de campos de formulario para que le ofrezca, por ejemplo, una fecha de finalización menos estricta.
+¿Por qué no hemos calculado y mostrado al vuelo la fecha límite de finalización en el formulario de registro? Por una sencilla razón: **El usuario no necesita conocer dicho dato hasta que no haya registrado la tarea**. Si conoce dicha fecha de finalización mientras registra la tarea, podría ir modificando el resto de campos de formulario para que le ofrezca, por ejemplo, una fecha de finalización menos estricta.
 
 En este caso, el usuario estaría falseando la información a su favor, haciendo que la aplicación de control no sirva realmente para controlar (ya que el usuario podría adaptar los plazos a su conveniencia, en lugar de realizar su trabajo como corresponde). Y en ciertos entornos corporativos esto es un problema.
 
-Por tanto: Hay que pensar siempre qué información se debe mostrar en cada apartado de la aplicación para dar al usuario todos los datos que necesite y le sean de utilidad en cada momento.
+Por tanto: Hay que pensar siempre qué información se debe mostrar en cada apartado de la aplicación para dar al usuario todos los datos que necesite y le sean de utilidad en cada momento. **Ni más, ni menos**
 
