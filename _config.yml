@@ -15,6 +15,7 @@ disqus:
   id: jorgecasas
 
 # User info
+author: Jorge Casas
 user:
   logo: jorgecasas.jpg
   name: Jorge Casas
@@ -23,6 +24,8 @@ user:
   github:  jorgecasas
   linkedin:  jorgecasas
 
+twitter:
+  username: jorgecasas
 
 # Build settings
 markdown: kramdown
@@ -44,7 +47,7 @@ share: true
 
 # Gems >> gem install GEM >> gem update
 #gems: ['jekyll-twitter-plugin']
-gems: ['jekyll-paginate' ]
+gems: ['jekyll-paginate','jekyll-seo-tag']
 
 # Plugin - sitemap 
 sitemap:
