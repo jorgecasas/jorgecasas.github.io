@@ -7,7 +7,7 @@ tags:
 - development
 ---
 
-En los últimos años he aprendido muchas cosas, algunas sobre tecnología, otras sobre el Mundo Real, otras sobre la condición humana... Otras cosas me han llamado la atención: El auge del DIY (_Do It Yourself_) y las posibilidades de la impresión en 3D, o el auge del [Big Data]({{ site.url }}/2016/01/27/sobreinformacion) y la poca gente que sabe realmente a lo que es, o sin ir más lejos, el auge del _cuñadismo_.
+En los últimos años he aprendido muchas cosas, algunas sobre tecnología, otras sobre el Mundo Real, otras sobre la condición humana... Otras cosas me han llamado la atención: El auge del DIY (_Do It Yourself_) y las posibilidades de la impresión en 3D, o el auge del [Big Data]({{ site.url }}/2016/01/27/sobreinformacion) y la poca gente que sabe realmente qué es lo que es el _Big Data_, o sin ir más lejos, el auge del _cuñadismo_.
 
 El _cuñadismo_ suele ser una forma de mostrar tu ignorancia o tus limitaciones en un campo en concreto del conocimiento. Por ejemplo, si te vas a comprar un coche siempre habrá alguien que te diga que un pariente suyo o un conocido de la mili se han comprado el mismo coche que tú, pero con radio satelital embebida en el salpicadero y nuevas tecnologías como JADT, MDT, u otras siglas que se pueda inventar. Y por la mitad de precio.
 
