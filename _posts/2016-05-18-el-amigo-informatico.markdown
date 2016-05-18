@@ -31,7 +31,7 @@ O como decir que un primo lejano mío, que trabaja en un lavacoches y sabe que l
 
 O como decir que un amigo de la mili, que sabe ir en bici, piensa que pilotar un avión no puede ser tan difícil si también llevan algo parecido a un manillar para dirigir el avión.
 
-¿Parece exagerado? Pues cuando alguien nombra a su _amigo informático_ con frases como estas, a la gente que de verdad trabajamos o hemos trabajado en el _sector informático_ se nos cae una lagrima (de pena, generalmente, debido a la vergüenza ajena): Otro infectado por el _cuñadismo_ más estúpido, o directamente la ignorancia más atrevida.
+¿Parece exagerado? Pues cuando alguien nombra a su _amigo informático_ con frases como estas, a la gente que de verdad trabajamos o hemos trabajado en el _sector informático_ se nos cae una lagrima (de pena, generalmente, debido a la vergüenza ajena): Otro infectado por el _cuñadismo_ más estúpido, o directamente por la ignorancia más atrevida.
 
 Mi consejo: Si sois informáticos (o trabajáis en el _sector_) y tenéis un amigo que va diciendo algo sobre el _amigo informático_, huid y buscad nuevos amigos. Si no sois informáticos y tenéis algún amigo que sí lo es, no le hagáis pasar este mal rato.
 
