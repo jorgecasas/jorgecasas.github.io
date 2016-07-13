@@ -20,7 +20,7 @@ El poder correr con el carro tiene muchas cosas buenas, y no solo el poder hacer
 
 * Bruno gritando "¡Papá, corre más!". Cuesta arriba, sin respiración, empujando el carro.
 * Cierzo. En Zaragoza hay mucho. El carro hace de vela, y el aire siempre suele dar en contra. Bruno gritando "¡Papá, corre más!". Pasas de ir a 4.30 a 6.00. Luego te da a favor y pasas a hacer series de 1000 a 3.15 con el niño (aunque seguirá gritando "¡Papá, corre más!"). 
-* Cuestas arriba. El carro es muy cómodo, se conduce con una sola mano y en llano parece que anda solo (menos cuando hay cierzo), pero cuesta arriba no deja de ser un lastre de 15 kilos más lo que pese el niño. Te pones fuerte.
+* Cuestas arriba. El carro es muy cómodo, se conduce con una sola mano y en llano parece que ande solo (menos cuando hay cierzo), pero cuesta arriba no deja de ser un lastre de 15 kilos más lo que pese el niño. Te pones fuerte.
 * Caminos. Pasas de ir sin un bache por la acera / carril bici / asfalto a que el niño vaya dando saltos. Cuando vuelves al asfalto te mira con cara de pena, como diciendo "¡Papá, quiero baches!".
 * El día que sales haciendo sol, y se pone a llover. El carro parece una nave espacial en miniatura con el protector. Tú no llevas protector y acabas empapado.
 * La hora de la siesta. Puedes entrenar todo el rato que quieras, porque a los 2 minutos el niño va a ir dormido. Cuando va creciendo va durmiendo menos, y para que no se aburra puedes ir cantando canciones. Bruno gritando "¡Papá, corre más! ¡Ahora la canción del barquito chiquitito! ¡Y ahora la de Pocoyó!". Cuesta arriba, sin respiración, cantando, empujando el carro, con cierzo, lloviendo.
