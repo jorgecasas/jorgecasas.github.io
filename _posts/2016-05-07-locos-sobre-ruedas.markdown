@@ -26,6 +26,7 @@ El poder correr con el carro tiene muchas cosas buenas, y no solo el poder hacer
 * La hora de la siesta. Puedes entrenar todo el rato que quieras, porque a los 2 minutos el niño va a ir dormido. Cuando va creciendo va durmiendo menos, y para que no se aburra puedes ir cantando canciones. Bruno gritando "¡Papá, corre más! ¡Ahora la canción del barquito chiquitito! ¡Y ahora la de Pocoyó!". Cuesta arriba, sin respiración, cantando, empujando el carro, con cierzo, lloviendo.
 
 **Actualización 2016-07-12**
+
 A [Martina](https://twitter.com/martinacasasab) parece que también le gusta. No ha parado de canturrear durante los 40 minutos de su primer día en el carro.
 
 ![Martina en su carro]({{ site.url }}/assets/images/2016-05-07-locos-sobre-ruedas-martina.jpg)
