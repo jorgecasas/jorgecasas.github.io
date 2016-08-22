@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tempus apparatus - El juego de la máquina del tiempo"
-date:   2016-07-26 08:15:00
+date:   2016-08-22 12:25:00
 categories: games images retrofuturism
 tags:
 - games
@@ -19,6 +19,7 @@ En los últimos años, y gracias a Internet y el gran número de personas que ha
 
 Lo gracioso de esto es que **muchos de los inventos que hoy en día se toman como inventos increíblemente avanzados y tecnológicos (por ejemplo, el coche eléctrico) ya existían y eran funcionales hace 80 años**...
 
-Aquí os dejo la presentación en PDF (ocupa 145 MB), y en breve colgaré en Github el código para generar las transparencias en _modo juego_ (es decir, cada transparencia una foto con la fecha estimada, sin el texto descriptivo inferior)
+Aquí os dejo la presentación en PDF (ocupa 145 MB), y el enlace al repositorio de Github con el código PHP para generar las transparencias en _modo juego_ (es decir, cada transparencia una foto con la fecha estimada, sin el texto descriptivo inferior)
 
 * **Descarga desde Google Drive:** [Tempus Apparatus - El juego de la máquina del tiempo](https://drive.google.com/file/d/0B1RqYMUTyAZRQVYzRmlQeGlyNzA/view?usp=sharing)
+* **Repositorio Github con código para generar transparencias del juego de la máquina del tiempo**: [tempus-apparatus-slides](https://github.com/jorgecasas/tempus-apparatus-slides)
