@@ -12,7 +12,7 @@ tags:
 
 Hoy en día hay nuevos avances a todas horas, desde el [asombroso coche eléctrico Tesla y todo lo que le rodea en el mundo de la energía eléctrica renovable](https://www.tesla.com/en_EU/) hasta [asombrosos robots más hábiles que muchos humanos](https://youtu.be/6zpuHr7t8xI), pasando por asombrosos inventos hechos mediante impresoras 3D (desde cacharros, a herramientas, a comida, a partes del cuerpo humano, a vehículos), [asombrosos drones voladores para realizar mil tareas diferentes nunca antes imaginadas](https://www.tecnocarreteras.es/tag/dron/), asombrosos inventos de Internet de las Cosas (IoT) hasta llegar a la Inteligencia Artificial (AI) o [Machine Learning](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow).
 
-![Hombre grita a nube]({{ site.url }}/assets/images/2019-09-09-inteligencia-artificial.jpg)
+![Hombre grita a nube]({{ site.url }}/assets/images/2016-09-09-inteligencia-artificial.jpg)
 
 La cosa es que **mucha gente tiene miedo a los avances**, por mil razones diferentes (estúpidas en su mayor parte, porque al final el avance científico / tecnológico siempre es imposible de detener y trae riqueza globalmente). Una de ellas suele ser que **las máquinas y los robots nos van a quitar puestos de trabajo**, y más cuando se les introduzca Inteligencia Artificial. Y esto es completamente falso: **Nunca seremos reemplazados por máquinas o robots inteligentes capaces de aprender a hacer las cosas de forma mucho más eficientes que nosotros. Seremos, si acaso, [reemplazados por pequeños _scripts_ que hagan todas nuestras funciones](http://thenextweb.com/shareables/2015/11/25/this-man-is-a-genius/)**.
 
