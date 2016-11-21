@@ -87,6 +87,6 @@ Se pueden encontrar globos en diferentes tiendas, así como helio (en botellas d
 =========================
 
 * [Proyecto SONDA - Introducción]({{ site.url }}/2014/12/18/proyecto-sonda-i)
-* [La cápsula (_payload_)]({{ site.url }}/2014/12/25/proyecto-sonda-ii)
+* [La cápsula (_payload_)]({{ site.url }}/2014/12/24/proyecto-sonda-ii)
 * [Sistemas de recuperación (_parachute_)]({{ site.url }}/2014/12/28/proyecto-sonda-iii)
 * [Sistemas de propulsión (globo de helio)]({{ site.url }}/2015/01/15/proyecto-sonda-iv)

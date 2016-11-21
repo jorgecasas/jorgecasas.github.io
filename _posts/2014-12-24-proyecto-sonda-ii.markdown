@@ -76,4 +76,4 @@ En los siguientes capítulos de esta serie de **Proyecto SONDA** iré recopiland
 =========================
 
 * [Proyecto SONDA - Introducción]({{ site.url }}/2014/12/18/proyecto-sonda-i)
-* [La cápsula (_payload_)]({{ site.url }}/2014/12/25/proyecto-sonda-ii)
+* [La cápsula (_payload_)]({{ site.url }}/2014/12/24/proyecto-sonda-ii)
