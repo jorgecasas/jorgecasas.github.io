@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "2016"
+date:   2016-12-16 23:55:00
+categories: blog review
+tags:
+- blog
+- review
+---
+
+
+[Como ya hice el año pasado por estas fechas]({{site.url}}/2015/12/23/2015), voy a hacer un resumen de lo que ha sido para mí el año 2016, para ver las desviaciones típicas entre lo planificado / deseado y la realidad. En general, ha sido un año muy divertido en el que menos descansar he hecho de todo: Desde volver a notar el dolor de espalda de ir agachado con Martina gateando / andando / casi correteando, hasta las excursiones con Bruno y su bici nueva metiéndose por todos los charcos / barro posibles, yendo al cine a ver dibujos animados, volviendo a sentirme corredor de nuevo por momentos, creando nuevos proyectos en [ITERNOVA](https://www.iternova.net) y [Tecnocarreteras](https://www.tecnocarreteras.es), diciendo adiós al viejo Nissan Almera porque ya no cabíamos dentro todos, yendo a la playa y a la montaña, durmiendo en una tienda de campaña, volviendo a ver a viejos amigos...
+
+![Feliz 2017 y siguientes]({{site.url}}/assets/images/2016-12-16-2016.jpg)
+
+La lista de cosas que tenía pensado hacer este año no era muy larga, pero aún así... 
+
+* **Mantener este blog personal**: 
+  * Se puede decir que sí, aunque solo haya escrito un post por mes como mucho. 
+* **Leer libros**: 
+  * He leído libros, se puede decir que este punto lo he cumplido al 100%... Dos libros realmente (tras leerme [Makers](http://amzn.to/2gTQKig) en el 2015 sobre impresión en 3D y los nuevos paradigmas de fabricación (la nueva revolución industrial del siglo XXI), me leí otro libro de Chris Anderson ([Gratis](http://amzn.to/2gU03i1)), y ahora mismo estoy acabando [The Nature of Code: Simulating Natural Systems with processing](http://amzn.to/2gTQjod) (sobre redes neuronales, machine learning y otras simulaciones). 
+  * Eso sí, he leído bastantes blogs temáticos a diario, y he escuchado / visto bastantes podcasts y webinarios interesantes de forma frecuente. 
+  * Creo que cada vez se lee menos en formato largo, y más en formato corto...
+* **Programar la Raspberry Pi (para mi proyecto inacabado de Sonda Espacial)**: 
+  * El proyecto inacabado sigue inacabado, pero la Raspberry Pi está preparada para enviar datos de posición e imágenes desde el espacio cercano. 
+  * Eso sí, también hemos creado una consola de juegos con la Raspberry Pi (para poder jugar al Super Mario Bros original con el simulador de Nintendo (NES) o en el de Super Nintendo (SNES) o a Sonic en el de SEGA). Solo hemos necesitado una [Raspberry Pi](http://amzn.to/2hEs8qY) (con sus [cables HDMI](http://amzn.to/2gU3tBs), [cajas y fuentes de alimentación](http://amzn.to/2hEjh8L), [tarjetas de memoria SD](http://amzn.to/2gTPHyX) y [mandos](http://amzn.to/2hHcaMu)), y descargarnos el sistema [Retropie](https://retropie.org.uk/) y las [ROM de juegos](http://www.emuparadise.me/Nintendo_Entertainment_System_ROMs/List-All-Titles/13)
+* **Aprender desarrollo 3D para imprimir / crear objetos 3D, llegando a crear un objeto físico (probablemente, una caja para la Raspberry Pi en la que se ajusten todas las placas necesarias)**: 
+  * He trasteado un poco con alguna plataforma de diseño, pero sin llegar a hacer realmente nada.
+  * Al menos han puesto una imprenta 3D al lado de mi casa y al lado de las oficinas de [ITERNOVA](https://www.iternova.net), y he descubierto que casi todo está ya diseñado en [Thingiverse.com](https://thingiverse.com)
+* **Correr, al menos 3-4 veces por semana, haciendo la transición al calzado minimalista, para poder llegar a hacer una media maratón en condiciones**: 
+  * La [transición al calzado minimalista](https://twitter.com/jorgecasas/status/650983772867928064) iba bien. Ya estaba corriendo (o yendo en bici) 5 días a la semana (calle, monte o gimnasio) incluso 40 minutos seguidos sin dolores musculares de ningún tipo, a buen ritmo (nunca había rodado tan rápido los días que iba a rodar tranquilo), volviendo a estrenar [el carro de correr con Martina]({{site.url}}/2016/05/07/locos-sobre-ruedas)... hasta que tuve una fractura de estrés (probablemente por pisar en terreno pedregoso demasiado pronto). 
+  * Casi 3 semanas con muletas, perdiéndome la que habría sido mi novena Behobia San Sebastián, y luego un mes de recuperación tranquila. 
+  * En cuanto a competir, prácticamente nada (a pesar de las ganas que tengo de correr algo). Al menos, he estado compaginando bici con correr durante todo el año y ha sido divertido (como el día que pinché 3 veces y tras 31 Km con subida a La Plana incluída terminé haciendo una transición de 11 Km corriendo).
+* **Fabricarme una bicicleta**: 
+  * Este punto lo hemos cumplido al 100%. 
+  * La [ITERNOVA SmartBike 01]({{site.url}}/2016/07/26/iternova-smartbike-01) está plenamente funcional y ya habré hecho con ella casi 300 Km (teniendo en cuenta que he estado sin poder usarla los últimos dos meses...).
+
+Así, voy a hacer la lista para el año 2017. Cada vez me parece que es más corta:
+
+* **Mantener este blog personal**
+* **Leer libros, escuchar podcasts y participar en webinarios tecnológicos de forma frecuente** (en definitiva, para aprender nuevas cosas)
+* **Ir en bici y patinar con [Bruno](https://twitter.com/brunocasasabos) y [Martina](https://twitter.com/martinacasasab)**: Esto sé que lo voy a conseguir. Lo que no sé si conseguiré es llegar a casa sin habernos metido por todos los charcos del camino.
+* **Terminar al menos uno de los proyectos inacabados**
+* **Correr / ir en bici, al menos 4 veces por semana**: Ya tenemos planificadas algunas carreras, ahora sólo falta entrenar para recuperar sensaciones...
+
+Y hasta aquí los buenos propósitos. ¡El año que viene más y mejor!
