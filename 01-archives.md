@@ -1,18 +1,17 @@
 ---
 layout: page
 title: Time Travel
-permalink: /archives/
+permalink: /archive/
 icon-menu: icon-calendar
 ---
-
 {% for post in site.posts %}
-
 {% unless post.next %}
   <h1>Traveling to {{ post.date | date: '%Y' }}</h1>
 {% else %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
   {% if year != nyear %}
+  <br/>
   <h1>Traveling to {{ post.date | date: '%Y' }}</h1>
   {% endif %}
 {% endunless %}
