@@ -4,9 +4,30 @@
 @charset "utf-8";
 
 
+@font-face {
+    font-family: ProFontWindows;
+    src: url('fonts/profontwindows.ttf');
+}
+@font-face {
+    font-family: ProFontWindows;
+    src: url('fonts/profontwindows.ttf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: ProFontWindows;
+    src: url('fonts/profontwindows.ttf');
+    font-style: italic;
+}
+@font-face {
+    font-family: ProFontWindows;
+    src: url('fonts/profontwindows.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
 
 // Our variables
-$base-font-family: "Maven Pro", Helvetica, sans-serif;
+$base-font-family: "ProFontWindows", sans-serif; // Maven Pro 
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -23,7 +44,7 @@ $background-color-footer: #333333;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color, 42%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
@@ -35,12 +56,6 @@ $on-laptop:        800px;
 
 
 // Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -56,3 +71,4 @@ $on-laptop:        800px;
         "syntax-highlighting",
 		"fonts"
 ;
+
