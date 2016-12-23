@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "3D"
+date:   2016-12-23 14:55:00
+categories: blog 3d printers projects
+tags:
+- blog
+- 3d
+- printers
+- projects
+---
+
+
+Una de las cosas que tenía ganas de hacer desde que mi amigo César (¡hola!) me enseñó lo que era capaz de hacer con la impresión 3D y me recomendó el libro [Makers de Chris Anderson](http://amzn.to/2ik25bI) es aprender a diseñar cosas en 3D (para luego imprimirlas y poder hacer algún invento que otro).
+
+![Openscad]({{site.url}}/assets/images/2016-12-23-3d.jpg)
+
+
+Programar estos objetos 3D es bastante sencillo, al menos utilizando **[openscad](http://www.openscad.org)** (que además está disponible para Linux / Windows / Mac de forma gratuita). De momento he programado unos par de objetos bastante sencillos (un dado, y una caja con tapa...), pero con tiempo y paciencia se puede diseñar prácticamente cualquier cosa (sólo hay que visitar [Thingiverse.com](https://thingiverse.com) en cualquiera de sus galerías para ver lo que es capaz de hacer la gente).
+
+En el fondo, es ir indicando si quieres un cubo, una esfera, un cilindro, un texto, otros objetos importados, etc... para luego trasladarlos en el espacio, rotarlos, escalarlos, y empezar a combinar estos elementos anteriormente creados (uniéndolos, restándolos para quitar material, o interseccionándolos). Asimismo, se puede programar para hacer cosas en lote (por ejemplo, hacer 10 agujeros en una sola línea, en vez de hacerlo 10 veces...), y un montón de cosas más (solo hay que ver el _[cheatsheet](http://www.openscad.org/cheatsheet/)_ con las funciones y opciones disponibles en openscad)
+
+Por ejemplo, para diseñar un cubo de tareas para ver a quién le toca hacer cosas, basta con escribir el siguiente código en nuestro fichero _.scad_:
+
+<pre>
+// Usamos una fuente de texto a medida (tiene que ser TTF y estar en el mismo directorio que este fichero .scad)
+use &lt;Play-Bold.ttf&gt;;
+text_font="Play:style=Bold";
+lado = 24; // En mm
+
+lado_inner = lado * 0.8; // Lado interior del cubo (vamos a quitar material interior para que sea dado más barato)
+radio = lado / 2;
+text_depth = 2;
+text_width = lado / 1.4;
+
+// Definimos los textos de cada una de las 6 caras (no tocar resto de coordenadas de rotación)
+array_text = [[0,0,0, "Bruno"], [0,90,0, "Martina"], [0,180,0,"Jorge"], [0,270,0,"Sonia"], [0,90,90,"Todos"], [0,90,270,"Nadie"] ];
+
+// Vamos a crear varios objetos y los vamos a restar (difference) entre sí para quitar material,
+// de manera que queden los textos como si estuvieran cincelados en cada cara del cubo
+difference() {
+    // Creamos el cubo. Interseccionamos un cubo y una esfera para 
+    // que los vértices del cubo sean "redondeados"
+    intersection() {
+        cube( lado, center=true);
+        sphere( d=lado*1.5 );
+    }
+    
+    // Eliminamos parte interior del cubo para gastar menos material 
+    // (haciendo diferencia entre cubo anterior y este más pequeño)
+    intersection() {
+        cube( lado_inner, center=true);
+        sphere( d=lado_inner*1.5 );
+    }
+
+    // Textos de cada cara, de forma programática. Hay que rotar el texto (para cada cara), 
+    // trasladarlo a la cara que le corresponda, hacerlo profundo y cambiarle el tamaño,
+    // de manera que al hacer la diferencia entre estos textos y el resto de objetos queden
+    // como cincelados en cada cara
+    for(i_text=array_text)
+        rotate( [i_text[0],  i_text[1], i_text[2]] )
+            translate( [radio - text_depth* 2 ,text_depth * 2, radio - text_depth] )
+                linear_extrude(height = ( text_depth * 1.1 )) 
+                    resize(newsize=[ text_width ,  text_width / 3, text_width  ] )
+                        text(i_text[3], font = text_font, halign = "right" , valign = "top" );
+} 
+</pre>
+
+Una vez creado, se puede renderizar y exportar el objeto creado a un fichero STL. Estos ficheros se pueden compartir en [Thingiverse.com](https://thingiverse.com), a la vez que desde esa plataforma puedes descargar otros modelos creados por otros usuarios, modificarlos, compartirlos de nuevo, combinarlos y aprender de ellos. Mis diseños los puedes encontrar (los que llevo hasta el momento y los que vaya haciendo) en [mi perfil de Thingiverse.com](http://www.thingiverse.com/jorgecasas/designs)
+
+En el caso de no tener impresora 3D, podemos subir nuestros ficheros generados a la plataforma [3D HUBS](https://www.3dhubs.com), en donde podremos encontrar un listado de precios de tiendas, laboratorios y gente que por un módico precio (o no tan módico, según los materiales escogidos) te lo imprimirán y te lo enviarán a tu casa.
+
