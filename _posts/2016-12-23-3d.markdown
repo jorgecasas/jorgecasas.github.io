@@ -70,3 +70,10 @@ Una vez creado, se puede renderizar y exportar el objeto creado a un fichero STL
 
 En el caso de no tener impresora 3D, podemos subir nuestros ficheros generados a la plataforma [3D HUBS](https://www.3dhubs.com), en donde podremos encontrar un listado de precios de tiendas, laboratorios y gente que por un módico precio (o no tan módico, según los materiales escogidos) te lo imprimirán y te lo enviarán a tu casa.
 
+Si sí que tienes una impresora 3D, una vez hayas generado el fichero STL tendrás que convertirlo a formato **gcode** (que es el formato que reconocen las impresoras de este tipo para saber en cada coordenada X, Y, Z del espacio la cantidad de material que tiene que utilizar). Para ello, utilizamos uno de los muchos programas que existen para tal efecto, como puede ser **[Cura](https://ultimaker.com/en/products/cura-software)**. Tras seleccionar nuestra impresora y las diferentes opciones de impresión (de forma que podamos ahorrar material, etc...), podremos enviar a la impresora nuestro objeto, y lo imprimirá. En este punto, solo hay que armarse de paciencia porque según el diseño y la impresora le puede costar varias horas...
+
+**Actualización 2017-01-09**
+
+Ya he recibido un dado que diseñó [Bruno](https://twitter.com/brunocasasabos). Este modelo se puede descargar desde mi perfil de [Thingiverse.com](http://www.thingiverse.com/thing:1994329)
+
+![Dado emoticonos]({{site.url}}/assets/images/2016-12-23-3d-02.jpg)
