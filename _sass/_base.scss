@@ -158,6 +158,11 @@ iframe {
     display: block;
 }
 
+em {
+    font-style: oblique;
+    font-size: $small-font-size;
+}
+
 /**
  * Wrapper
  */
