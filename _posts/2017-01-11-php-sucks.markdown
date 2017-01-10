@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "PHP sucks"
+date:   2017-01-11 14:55:00
+categories: blog developers
+tags:
+- blog
+- developers
+- php
+---
+
+Muchos desarrolladores, programadores e informáticos piensan, maldicen y gritan que PHP es el peor lenguaje de programación, y lo peor de todo es que intentan convencerte de lo mismo. Que si no es (era) lenguaje tipado, que si los nombres de funciones / métodos / clases dan risa, que si la gente que programa en PHP no tiene ni idea de programación, que si... Lo curioso de ello es que el [82% de los sitios web conocidos de Internet lo usan](https://w3techs.com/technologies/details/pl-php/all/all), y no son cualquier sitio (por ejemplo, Facebook, Twitter, Wikipedia, Baido, Weibo... con millones de visitas diarias cada uno de ellos). Pero claro, PHP es el peor lenguaje de programación... qué voy a saber yo.
+
+![PHP]({{site.url}}/assets/images/2017-01-11-php.jpg)
+
+Realmente PHP es un lenguaje de programación con muy mala fama. Su facilidad para hacer cosas sin tener ni idea de programación hace que cualquiera pueda programar algo y eso hace que haya mucho código en PHP que sea basura. Pero oye, que sin tener ni idea de programación tú y cualquiera puede programar algo que funcione, aunque sea basura el código escrito. Otros lenguajes (Java, C#, C++, Go, node.js...) igual te permiten hacer cosas de forma más eficiente, e igual de forma más ordenada, e igual con estructuras más bonitas o ajustadas para lo que tienes que hacer... pero claro, sólo si sabes cómo hacerlo. Y lo que te pueden facilitar para realizar ciertas tareas otros lenguajes quizá te estén introduciendo complejidad adicional en otros aspectos o partes del código.
+
+Realmente los lenguajes de programación ni son buenos ni son malos. He visto código en Java, Python, Perl... que da vergüenza ajena. Y código que ha sido escrito por gente respetable. Pero oye, que como no es PHP todo es maravilloso. Pero ojo desarrolles algo útil en PHP o en un lenguaje que no esté de moda (p.e. node.js), que te echarán los perros encima.
+
+**Lo realmente importante es poder hacer y desarrollar cosas. Da igual el lenguaje de programación que utilices siempre y cuando consigas desarrollar lo que quieres desarrollar**. A mi personalmente sí me gusta PHP, a pesar que tiene muchas cosas muy mejorables (al igual que el resto de lenguajes también tienen cosas muy mejorables):
+
+* Tiene una gran comunidad detrás: Hay muchos desarrolladores de los que aprender, mucho código disponible para desarrollar prácticamente cualquier cosa.
+* No es un lenguaje de programación _hype_: Muchos desarrolladores eligen lenguajes de programación porque están de moda ese mes. A los dos años muchos de esos lenguajes ya no existen o apenas tienen repercusión y dejan de evolucionar.
+* Es muy fácil de aprender. Sí, esto hace que cualquiera puede programar en PHP, aun sin tener ni idea de cómo organizar su código o utilizar los mecanismos que el propio lenguaje te ofrece.
+* Cualquiera puede programar en PHP. Hay una gran cantidad de recursos en la web, la mayor parte libres, que permiten aprender y realizar aplicaciones asombrosas.
+* Es un lenguaje que ha evolucionado mucho en los últimos años: Cada nueva versión ofrece nuevos artifactos ya disponibles en otros lenguajes más _modernos y fabulosos_.
+
+Así que mi consejo de hoy es: _No dejes que nadie te diga lo que puedes o no puedes hacer. Piensa por ti mismo. Elige lo que creas más conveniente._
