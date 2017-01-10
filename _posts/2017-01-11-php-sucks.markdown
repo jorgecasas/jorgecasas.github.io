@@ -23,6 +23,6 @@ Realmente los lenguajes de programación ni son buenos ni son malos. He visto c�
 * No es un lenguaje de programación _hype_: Muchos desarrolladores eligen lenguajes de programación porque están de moda ese mes. A los dos años muchos de esos lenguajes ya no existen o apenas tienen repercusión y dejan de evolucionar.
 * Es muy fácil de aprender. Sí, esto hace que cualquiera puede programar en PHP, aun sin tener ni idea de cómo organizar su código o utilizar los mecanismos que el propio lenguaje te ofrece.
 * Cualquiera puede programar en PHP. Hay una gran cantidad de recursos en la web, la mayor parte libres, que permiten aprender y realizar aplicaciones asombrosas.
-* Es un lenguaje que ha evolucionado mucho en los últimos años: Cada nueva versión ofrece nuevos artifactos ya disponibles en otros lenguajes más _modernos y fabulosos_.
+* Es un lenguaje que ha evolucionado mucho en los últimos años: Cada nueva versión ofrece nuevos artefactos ya disponibles en otros lenguajes más _modernos y fabulosos_.
 
 Así que mi consejo de hoy es: _No dejes que nadie te diga lo que puedes o no puedes hacer. Piensa por ti mismo. Elige lo que creas más conveniente._
