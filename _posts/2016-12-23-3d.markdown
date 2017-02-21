@@ -77,3 +77,8 @@ Si sí que tienes una impresora 3D, una vez hayas generado el fichero STL tendr�
 Ya he recibido un dado que diseñó [Bruno](https://twitter.com/brunocasasabos). Este modelo se puede descargar desde mi perfil de [Thingiverse.com](http://www.thingiverse.com/thing:1994329)
 
 ![Dado emoticonos]({{site.url}}/assets/images/2016-12-23-3d-02.jpg)
+
+
+**Actualización 2017-02-15**
+
+En [ITERNOVA](https://www.iternova.net) hemos adquirido una impresora 3D para hacer pequeños prototipos, y de paso aprender un poco más sobre la fabricación de productos y el uso de dichos dispositivos. De momento, hemos creado varios complementos para la propia impresora (robots fabricándose a sí mismos), y una caja para encapsular un Arduino / estación meteorológica. La estación meteorológica está ahora mismo situada en el municipio de [Las Pedrosas](https://www.wunderground.com/personal-weather-station/dashboard?ID=ILASPEDR2).
