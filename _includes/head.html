@@ -19,6 +19,28 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   {% if site.google.webfont %}<link href='https://fonts.googleapis.com/css?family={{ site.google.webfont }}' rel='stylesheet' type='text/css'>{% endif %}
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@site_username">
+  <meta name="twitter:creator" content="@creator_username">
+  {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+  {% else %}
+    <meta name="twitter:title" content="{{ site.title }}">
+  {% endif %}
+  {% if page.url %}
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  {% endif %}
+  {% if page.description %}
+    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
+  {% if page.image %}
+    <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{{ page.image }}">
+  {% else %}
+    <meta name="twitter:image:src" content="{{ site.url }}/assets/images/jorgecasas.jpg">
+  {% endif %}
   {% seo %}
 </head>
  
