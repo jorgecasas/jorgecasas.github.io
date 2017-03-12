@@ -2,7 +2,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width initial-scale=1">
-
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   {% if site.enforce_ssl %}
     <script type="text/javascript">
@@ -12,7 +11,6 @@
       }
     </script>
   {% endif %}
-
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
@@ -21,26 +19,12 @@
   {% if site.google.webfont %}<link href='https://fonts.googleapis.com/css?family={{ site.google.webfont }}' rel='stylesheet' type='text/css'>{% endif %}
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@site_username">
-  <meta name="twitter:creator" content="@creator_username">
-  {% if page.title %}
-    <meta name="twitter:title" content="{{ page.title }}">
-  {% else %}
-    <meta name="twitter:title" content="{{ site.title }}">
-  {% endif %}
+  <meta name="twitter:site" content="@jorgecasas">
+  <meta name="twitter:creator" content="@jorgecasas">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   {% if page.url %}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   {% endif %}
-  {% if page.description %}
-    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
-  {% else %}
-    <meta name="twitter:description" content="{{ site.description }}">
-  {% endif %}
-  {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{{ page.image }}">
-  {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/images/jorgecasas.jpg">
-  {% endif %}
-  {% seo %}
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{% if page.image %}{{ page.image }}{% else %}jorgecasas.jpg{% endif %}">
 </head>
- 
