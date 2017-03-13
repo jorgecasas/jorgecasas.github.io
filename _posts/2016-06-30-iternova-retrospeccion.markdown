@@ -6,6 +6,7 @@ categories: development iternova
 tags:
 - iternova
 - development
+thumbnail: /assets/images/2016-06-30-iternova.jpg
 ---
 
 Aprovechando ahora que dentro de un par de meses **[ITERNOVA](https://www.iternova.net)** cumple 12 años, voy a hacer el típico post recordatorio de cosas que he aprendido por el camino, por si le puede ser de utilidad a alguien, y de paso que sirva para que la gente sepa _en qué diablos trabajo_...

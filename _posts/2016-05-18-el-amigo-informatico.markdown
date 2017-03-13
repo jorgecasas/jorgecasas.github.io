@@ -5,6 +5,7 @@ date:   2016-05-18 12:15:00
 categories: development
 tags:
 - development
+thumbnail: /assets/images/2016-05-18-el-amigo-informatico.jpg
 ---
 
 En los últimos años he aprendido muchas cosas, algunas sobre tecnología, otras sobre el Mundo Real, otras sobre la condición humana... Otras cosas me han llamado la atención: El auge del DIY (_Do It Yourself_) y las posibilidades de la impresión en 3D, o el auge del [Big Data]({{ site.url }}/2016/01/27/sobreinformacion) y la poca gente que sabe realmente qué es lo que es el _Big Data_, o sin ir más lejos, el auge del _cuñadismo_.

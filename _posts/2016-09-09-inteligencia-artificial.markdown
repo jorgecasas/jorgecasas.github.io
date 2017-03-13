@@ -8,6 +8,7 @@ tags:
 - ai
 - scripts
 - future
+thumbnail: /assets/images/2016-09-09-inteligencia-artificial.jpg
 ---
 
 Hoy en día hay nuevos avances a todas horas, desde el [asombroso coche eléctrico Tesla y todo lo que le rodea en el mundo de la energía eléctrica renovable](https://www.tesla.com/en_EU/) hasta [asombrosos robots más hábiles que muchos humanos](https://youtu.be/6zpuHr7t8xI), pasando por asombrosos inventos hechos mediante impresoras 3D (desde cacharros, a herramientas, a comida, a partes del cuerpo humano, a vehículos), [asombrosos drones voladores para realizar mil tareas diferentes nunca antes imaginadas](https://www.tecnocarreteras.es/tag/dron/), asombrosos inventos de Internet de las Cosas (IoT) hasta llegar a la Inteligencia Artificial (AI) o [Machine Learning](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow).

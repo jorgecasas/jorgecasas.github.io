@@ -1,0 +1,7 @@
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@jorgecasas">
+<meta name="twitter:creator" content="@jorgecasas">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+{% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:image:src" content="{{ site.url }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/assets/images/jorgecasas.jpg{% endif %}">

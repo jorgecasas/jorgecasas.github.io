@@ -7,6 +7,7 @@ tags:
 - blog
 - cine
 - projects
+thumbnail: /assets/images/2017-02-12-monster-masins-la-pelicula.jpg
 ---
 
 Uno de los múltiples [proyectos inacabados]({{site.url}}/2014/11/26/proyectos-inacabados) era hacer una *película stop-motion*. Las películas _stop motion_ consisten en ir sacando fotografías, una detrás de otra, mientras vas moviendo poco a poco cada uno de los personajes o elementos que aparezcan en la escena (desde vehículos hasta árboles), para luego ponerlas una detrás de otra muy rápidamente para que las imágenes que capturen nuestras retinas sean procesadas por el cerebro como imágenes en movimiento.

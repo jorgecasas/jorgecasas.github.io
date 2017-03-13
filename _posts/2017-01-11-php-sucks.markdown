@@ -7,6 +7,7 @@ tags:
 - blog
 - developers
 - php
+thumbnail: /assets/images/2017-01-11-php.jpg
 ---
 
 Muchos desarrolladores, programadores e informáticos piensan, maldicen y gritan que PHP es el peor lenguaje de programación, y lo peor de todo es que intentan convencerte de lo mismo. Que si no es (era) lenguaje tipado, que si los nombres de funciones / métodos / clases dan risa, que si la gente que programa en PHP no tiene ni idea de programación, que si... Lo curioso de ello es que el [82% de los sitios web conocidos de Internet lo usan](https://w3techs.com/technologies/details/pl-php/all/all), y no son cualquier sitio (por ejemplo, Facebook, Twitter, Wikipedia, Baido, Weibo... con millones de visitas diarias cada uno de ellos). Pero claro, PHP es el peor lenguaje de programación... qué voy a saber yo.

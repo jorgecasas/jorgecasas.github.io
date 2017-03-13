@@ -8,6 +8,7 @@ tags:
 - 3d
 - printers
 - projects
+thumbnail: /assets/images/2016-12-23-3d.jpg
 ---
 
 

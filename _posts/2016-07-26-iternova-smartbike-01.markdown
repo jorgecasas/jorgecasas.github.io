@@ -7,6 +7,7 @@ tags:
 - iternova
 - development
 - mtb
+thumbnail: /assets/images/2016-07-26-iternova-smartbike-01.jpg
 ---
 
 Como ya sabréis, en **[ITERNOVA](https://www.iternova.net)** desarrollamos, además de **[software de gestión de infraestructuras](https://www.iternova.net)** y de **[gestión de instalaciones](https://facilities.iternova.net)**, **[software para la gestión de las SmartCities](https://smartcities.iternova.net)**. Como también nos gusta la movilidad eficiente y ecológica, algunos de nosotros venimos a trabajar en bicicleta.
