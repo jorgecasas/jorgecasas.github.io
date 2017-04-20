@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gráficas de tarta"
-date:   2015-12-11 10:15:00
+date:   2017-04-20 14:15:00
 categories: blog development
 tags:
 - blog
