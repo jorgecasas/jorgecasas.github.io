@@ -49,3 +49,7 @@ Este caso sería el equivalente a mostrar gráficas en el que el eje Y no estuvi
 **Colores válidos para daltónicos**: En algunos sistemas, es probable que además de utilizar colores se deban utilizar símbolos, ya que algunos colores de la paleta pueden ser confundidos por usuarios con daltonismo. Si es posible, habría que escoger colores que no se confundieran entre sí. Existen [webs y aplicaciones para simular daltonismo en interfaces de usuario, imágenes](http://www.color-blindness.com/coblis-color-blindness-simulator), etcétera...
 
 Y por último, lo más importante: **Que los datos sirvan para mostrar algo**.
+
+**UPDATE 2017-04-21 23:30**
+Como indica [@MCanalesMayo](https://twitter.com/mcanalesmayo) no está de más tener en cuenta en las representaciones gráficas las [leyes de agrupamientos de Gestalt](https://en.wikipedia.org/wiki/Principles_of_grouping), leyes que no conocía pero que tienen mucho sentido para mostrar los datos de forma atractiva: Crear grupos por proximidad de datos, semejanza de formas / colores, creación de formas reconocibles por parte de los humanos...
+
