@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hype"
-date:   2017-04-20 14:15:00
+date:   2017-07-19 12:15:00
 categories: blog development
 tags:
 - blog
@@ -25,4 +25,3 @@ Estos términos, como se puede deducir, hacen referencia a tecnologías o concep
 **En el momento en el que surge un nuevo término surge a su vez una manada de gente / empresas / vendedores de humo que tratarán de hacer negocio con dicho término**. Intentarán que lo apliques a cualquier cosa que hagas o desarrolles (e intentarán cobrarte por ello). Montarán webinarios, seminarios, charlas TEDx, cursos online... lo que haga falta, para que el término gane popularidad y la gente se crea que es necesario implementar dicho término en sus productos y procesos (aunque no sea necesario ni lo más mínimo en la mayoría de las ocasiones). Es en ese momento cuando el _hype_ aparece en todo su explendor...
 
 Y esto da un poco de pena: **Gente que no sabe de qué está hablando realmente**. Así, mi consejo de hoy: No hagáis caso de los vendedores de humo, aprended lo máximo posible sobre qué implica cada término, y **pensad antes de actuar**. No siempre hay que aplicar todo lo que aprendemos, en casi todas las ocasiones no lo necesitaremos e incluso será mejor no aplicarlo, porque muchas veces lo más sencillo nos llevará al mismo objetivo con mucho menos sufrimiento.
-
