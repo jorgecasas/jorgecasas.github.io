@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Hype"
+date:   2017-04-20 14:15:00
+categories: blog development
+tags:
+- blog
+- development
+thumbnail: /assets/images/2017-07-19-hype.jpg
+---
+
+**Definición de "Hype"**: Hipérbole es un tropo que consiste en exagerar, aumentando o disminuyendo la verdad de lo hablado, de tal forma que el que reciba el mensaje le otorgue más importancia a la acción en sí y no tanto a la cualidad de dicha acción.
+
+Esta es, para mí, una de las palabras de moda de los últimos años. Siempre ha habido gente a la que le gustaba exagerar todo lo que hacía, todo lo que tenía, todo lo que sabía, todo lo que vendía... pero ahora es más llamativo que nunca que todo el mundo busca llamar la atención. Así, en unos meses han ido surgiendo términos para definir conceptos que, si bien ya existían previamente y mucha gente ya los utilizaba desde hace tiempo, parece como si no se hubieran utilizado nunca y ahora fueran el nuevo "[El Dorado](https://es.wikipedia.org/wiki/El_Dorado)" que salvará la economía mundial. 
+
+Por ejemplo:
+
+* **Big Data**: Término utilizado para hacer creer a la gente que usas muchos datos y que eres capaz de procesarlos (aunque luego los tengas todos contenidos en una hoja de cálculo Excel). Parece como si hace unos pocos años antes de que apareciera el término nadie almacenara millones de datos.
+* **AI - Inteligencia Artificial**: _"Nuestro sistema utiliza inteligencia artificial para devolver la respuesta correspondiente"_. Muy bien, seguro que no dejan de ser unos cuantos _ifs_ en el código.
+* **Machine Learning**: _"Nuestro sistema utiliza Machine Learning para hacer X"_. Un método que devuelva una regresión lineal ya se podría considerar Machine Learning...
+* Y otros muchos términos como _Blockchain, Containers, DevOps, Cloud_... (Nota: ver que todos estos términos se escriben en inglés para que sean más _cool_)
+
+Estos términos, como se puede deducir, hacen referencia a tecnologías o conceptos que se pueden aplicar al desarrollo de aplicaciones y sistemas, y que gracias a ellos las grandes empresas pueden inflar sus respectivas facturas: _"¡Hey!, el sistema no sirve para nada pero utilizamos Blockchain con Big Data para hacer el procesado mediante Machine Learning para que nuestros DevOps realicen el despliegue mediante el uso de contenedores al cloud en el mejor momento del día... Y esto hay que pagarlo de alguna manera..."_
+
+**En el momento en el que surge un nuevo término surge a su vez una manada de gente / empresas / vendedores de humo que tratarán de hacer negocio con dicho término**. Intentarán que lo apliques a cualquier cosa que hagas o desarrolles (e intentarán cobrarte por ello). Montarán webinarios, seminarios, charlas TEDx, cursos online... lo que haga falta, para que el término gane popularidad y la gente se crea que es necesario implementar dicho término en sus productos y procesos (aunque no sea necesario ni lo más mínimo en la mayoría de las ocasiones). Es en ese momento cuando el _hype_ aparece en todo su explendor...
+
+Y esto da un poco de pena: **Gente que no sabe de qué está hablando realmente**. Así, mi consejo de hoy: No hagáis caso de los vendedores de humo, aprended lo máximo posible sobre qué implica cada término, y **pensad antes de actuar**. No siempre hay que aplicar todo lo que aprendemos, en casi todas las ocasiones no lo necesitaremos e incluso será mejor no aplicarlo, porque muchas veces lo más sencillo nos llevará al mismo objetivo con mucho menos sufrimiento.
+
