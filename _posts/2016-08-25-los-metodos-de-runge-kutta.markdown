@@ -7,14 +7,14 @@ tags:
 - knowledge
 - space
 - math
+thumbnail: /assets/images/2016-08-25-runge-kutta.jpg
 ---
 
 El post de hoy va sobre métodos de aprendizaje, y **lo fácil que resulta aprender cosas cuando se cuentan bien, con pasión, con ejemplos prácticos, y con chistes tontos que sirven de reglas mnemotécnicas**. Luego no te acordarás de lo que aprendiste, pero sí del chiste tonto (el cerebro humano es así de maravilloso, olvida lo importante para recordar estupideces). El recordar esas anécdotas o chistes tontos permitirán, si así lo deseas, tirar del hilo para recordar el tema principal e importante.
 
-Y es que para enseñar lo que se sabe, es mucho mejor hacerlo con ejemplos que sean de interés del receptor. Esto me lo ha recordado el siguiente tweet:
+Y es que para enseñar lo que se sabe, es mucho mejor hacerlo con ejemplos que sean de interés del receptor. Esto me lo ha recordado el siguiente cómic:
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/ICamejxGCy">pic.twitter.com/ICamejxGCy</a></p>&mdash; SciencePorn (@SciencePorn) <a href="https://twitter.com/SciencePorn/status/768688614435856384">25 de agosto de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Einstein - La bomba atómica]({{site.url}}/assets/images/2016-08-25-runge-kutta.jpg)
 
 La gente que está atendiendo una explicación, como ya hemos comentado, se centra más en lo que le llama la atención. Por lo tanto, si queremos transmitir un conocimiento, hay que intentar que lo que contemos no despiste al receptor con información que a él le resulte más atractiva.
 
@@ -35,3 +35,4 @@ Mientras leía los diferentes apartados, cuando llegaba a estos cálculos (algun
 Hay que tener en cuenta que los cohetes que ponen cargas en órbita o enviaron al hombre a la Luna no dejan de ser grandes misiles cargados de combustible con una pequeña carga en su punta... y que **para calcular la trayectoria de estos misiles de largo alcance se utilizan los métodos de Runge Kutta**... Sí, los métodos de Runge Kutta... Los mismos métodos de Runge Kutta que una profesora nos comentó con desgana, desmotivando a todos los presentes, y que hicieran que mucha gente se planteara cambiarse de carrera...
 
 **Si esa profesora nos hubiera contado con pasión que con los métodos de Runge Kutta podríamos calcular la trayectoria de misiles intercontinentales o llevar al hombre a Marte, otro gallo habría cantado...**
+
