@@ -14,7 +14,7 @@ El post de hoy va sobre métodos de aprendizaje, y **lo fácil que resulta apren
 
 Y es que para enseñar lo que se sabe, es mucho mejor hacerlo con ejemplos que sean de interés del receptor. Esto me lo ha recordado el siguiente cómic:
 
-![Einstein - La bomba atómica]({{site.url}}/assets/images/2016-08-25-runge-kutta.jpg)
+[![Einstein - La bomba atómica]({{site.url}}/assets/images/2016-08-25-runge-kutta.jpg)](http://cadeh.com/)
 
 La gente que está atendiendo una explicación, como ya hemos comentado, se centra más en lo que le llama la atención. Por lo tanto, si queremos transmitir un conocimiento, hay que intentar que lo que contemos no despiste al receptor con información que a él le resulte más atractiva.
 
@@ -24,7 +24,7 @@ Solo con leer este párrafo anterior ya te habrá dado pereza, así que hay que 
 
 Pues bien, años después compré un libro de [Wernher von Braun](https://es.wikipedia.org/wiki/Wernher_von_Braun): [The Mars Project](http://amzn.to/2bDjKsz) (podéis comprarlo en [Amazon](http://amzn.to/2bDjKsz) si os interesa saber más). 
 
-En este libro, el ingeniero de la NASA que consiguió con sus cohetes llevar el hombre a la Luna, explica **en el año 1953 (16 años antes de llegar a nuestro satélite)** todo lo necesario para realizar un viaje a Marte, y cómo éste era posible con la tecnología actual de su época (sólo necesitaban tiempo y dinero, porque el objetivo principal de Wernher von Braun no era la Luna, sino Marte...).
+En este libro, el ingeniero de la NASA que consiguió con sus cohetes llevar al hombre a la Luna, explica **en el año 1953 (16 años antes de llegar a nuestro satélite)** todo lo necesario para realizar un viaje a Marte, y cómo éste era posible con la tecnología actual de su época (sólo necesitaban tiempo y dinero, porque el objetivo principal de Wernher von Braun no era la Luna, sino Marte...).
 
 Es un libro bastante interesante, ya que habla del número de naves que se requeriría para llegar a Marte (no hay que enviar una única nave, sino varias, al igual que Cristobal Colón utilizó la Niña, la Pinta y la Santa María...), el coste económico y material que supondría, los cálculos del viaje de ida/vuelta y la estancia (trayectorias y duración), etcétera... 
 
