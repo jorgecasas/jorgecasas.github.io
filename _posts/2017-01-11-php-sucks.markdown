@@ -27,3 +27,7 @@ Realmente los lenguajes de programación ni son buenos ni son malos. He visto c�
 * Es un lenguaje que ha evolucionado mucho en los últimos años: Cada nueva versión ofrece nuevos artefactos ya disponibles en otros lenguajes más _modernos y fabulosos_.
 
 Así que mi consejo de hoy es: _No dejes que nadie te diga lo que puedes o no puedes hacer. Piensa por ti mismo. Elige lo que creas más conveniente._
+
+**UPDATE 2017-08-23**
+
+Si vas a programar en cualquier cosa, utiliza buenas herramientas (desde pantallas, teclados, ordenadores... hasta el IDE de programación). Si tienes que programar en PHP, invierte dinero en un IDE como [PHPStorm](https://www.jetbrains.com/phpstorm/). Tu salud mental lo agradecerá y quizá PHP ya no te parezca tan mal lenguaje de programación.
