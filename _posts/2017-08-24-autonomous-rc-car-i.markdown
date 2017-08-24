@@ -14,11 +14,11 @@ A pesar de que aún tengo varios [proyectos inacabados](/2014/11/26/proyectos-in
 
 ![Autonomous RC Car](/assets/images/2017-08-23-autonomous-rc-car-i-01.jpg)
 
-Para ello, y gracias a que Internet permite a la gente compartir información y conocimiento, me basaré en el proyecto de [Zheng Wang](https://github.com/hamuchiwa/AutoRCCar), que es de los más completos, detallados y fáciles de entender que podréis encontrar sobre la materia (además de compartir íntegramente el código utilizado en [Github](https://github.com/hamuchiwa/AutoRCCar)). Así, algunos de los componentes necesarios son:
+Para ello, y gracias a que Internet permite a la gente compartir información y conocimiento, me basaré en el proyecto de [Zheng Wang](https://github.com/hamuchiwa/AutoRCCar), que es de los más completos, detallados y fáciles de entender que podréis encontrar sobre la materia (además de compartir íntegramente el código utilizado en [Github](https://github.com/hamuchiwa/AutoRCCar)). La fotografía que abre este _post_ es de su proyecto. Así, algunos de los componentes necesarios son:
 
 ## Coche teledirigido
 
-Se podría hacer el chasis donde ir colocando los componentes con una impresora 3D, o reciclando materiales de andar por casa (cartones, botellas de plástico, etcétera), pero para simplificar el desarrollo usaremos un [coche RC de los baratos](http://amzn.to/2veFVdV), ya que así nos soluciona parte de otros problemas (dirección, montaje de servos, montaje de sistemas de alimentación, acoplamiento del motor a las ruedas motrices, etcétera). También hay chasis ya específicos para este tipo de proeyctos (para ir montando todas piezas del vehículo), e incluso como [paquete completo](http://amzn.to/2vnIJEs).
+Se podría hacer el chasis donde ir colocando los componentes con una impresora 3D, o reciclando materiales de andar por casa (cartones, botellas de plástico, etcétera), pero para simplificar el desarrollo usaremos un [coche RC de los baratos](http://amzn.to/2veFVdV), ya que así nos soluciona parte de otros problemas (dirección, montaje de servos, montaje de sistemas de alimentación, acoplamiento del motor a las ruedas motrices, etcétera). También hay chasis ya específicos para este tipo de proyectos (para ir montando todas piezas del vehículo), e incluso como [paquete completo](http://amzn.to/2vnIJEs).
 
 [![Coche teledirigido](/assets/images/2017-08-23-autonomous-rc-car-i-02.jpg)](http://amzn.to/2veFVdV)
 
