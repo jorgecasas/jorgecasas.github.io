@@ -10,15 +10,17 @@ tags:
 thumbnail: /assets/images/2017-09-01-fortune.png
 ---
 
-Uno de los motivos por los que utilizamos **GNU/Linux** ([Ubuntu](https://www.ubuntu.com/download) o [Debian](https://www.debian.org/), según temporadas) a diario en [ITERNOVA](https://www.iternova.net) es que permite controlar por completo todas las aplicaciones que utilizas en el día a día, sin tener que instalar mil drivers y programas innecesarios y redundantes para realizar la menor de las tareas (como puede ser imprimir una página en la impresora). La mayoría de las aplicaciones son simples, lo que permite que sean fáciles de utilizar y que hagan lo que se espera que tienen que hacer, sin más florituras.
+Uno de los motivos por los que usamos **GNU/Linux** ([Ubuntu](https://www.ubuntu.com/download) o [Debian](https://www.debian.org/), según temporadas) a diario en [ITERNOVA](https://www.iternova.net) es que nos permite controlar por completo todas las aplicaciones que utilizamos en el día a día, sin tener que instalar mil drivers y programas innecesarios y redundantes para realizar la menor de las tareas (como puede ser imprimir una página en la impresora). La mayoría de las aplicaciones son simples, lo que hace que sean fáciles de utilizar haciendo únicamente lo que se espera de ellas, sin más florituras.
 
 ![Fortune](/assets/images/2017-09-01-fortune.png)
 
-Además, el uso del terminal y su línea de comandos hace que sea muy rápido hacer cosas (al menos, una vez que te sabes los comandos más usuales). Por ejemplo, una vez te has acostumbrado cuesta menos escribir _nemo_ que coger el ratón, buscar el icono entre cientos de iconos y hacer doble click para abrir el explorador de archivos. 
+Además, el uso del terminal y su línea de comandos permite hacer cosas muy rápidamente (al menos, una vez que te sabes los comandos más usuales). Por ejemplo, una vez que te has acostumbrado cuesta menos escribir _nemo_ que coger el ratón, navegar por menús, buscar el icono entre cientos de iconos y hacer doble click para abrir el explorador de archivos. 
 
-Y como este post va sobre pequeñas aplicaciones y la línea de comandos, voy a contar un secreto de configuración que utilizo. **Lo que voy a contar a continuación no sirve para nada**, pero es divertido.
+Y como este post va sobre pequeñas aplicaciones y la línea de comandos, voy a contar un secreto de configuración que utilizo. **Lo que voy a contar a continuación no sirve para nada absolutamente**, pero es divertido.
 
-**Fortune** es una pequeña aplicación que coge una frase de un fichero de texto y la saca por pantalla, de forma aleatoria. A continuación voy a poner los pasos para que cada vez que abra un terminal salga una frase aleatoria de nuestra propia colección.
+**Fortune** es una pequeña aplicación que coge una frase aleatoria de un fichero de texto y la saca por pantalla. Ya está. Esta aplicación no hace nada más. 
+
+A continuación voy a poner los pasos para que **cada vez que abra un terminal aparezca una frase aleatoria de nuestra propia colección**.
 
 En primer lugar, instalaremos _fortune_:
 
