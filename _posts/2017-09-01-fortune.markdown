@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Fortune"
+date:   2017-09-01 14:15:00
+categories: blog development linux
+tags:
+- blog
+- development
+- linux
+thumbnail: /assets/images/2017-09-01-fortune.png
+---
+
+Uno de los motivos por los que utilizamos **GNU/Linux** ([Ubuntu](https://www.ubuntu.com/download) o [Debian](https://www.debian.org/), según temporadas) a diario en [ITERNOVA](https://www.iternova.net) es que permite controlar por completo todas las aplicaciones que utilizas en el día a día, sin tener que instalar mil drivers y programas innecesarios y redundantes para realizar la menor de las tareas (como puede ser imprimir una página en la impresora). La mayoría de las aplicaciones son simples, lo que permite que sean fáciles de utilizar y que hagan lo que se espera que tienen que hacer, sin más florituras.
+
+![Fortune](/assets/images/2017-09-01-fortune.png)
+
+Además, el uso del terminal y su línea de comandos hace que sea muy rápido hacer cosas (al menos, una vez que te sabes los comandos más usuales). Por ejemplo, una vez te has acostumbrado cuesta menos escribir _nemo_ que coger el ratón, buscar el icono entre cientos de iconos y hacer doble click para abrir el explorador de archivos. 
+
+Y como este post va sobre pequeñas aplicaciones y la línea de comandos, voy a contar un secreto de configuración que utilizo. **Lo que voy a contar a continuación no sirve para nada**, pero es divertido.
+
+**Fortune** es una pequeña aplicación que coge una frase de un fichero de texto y la saca por pantalla, de forma aleatoria. A continuación voy a poner los pasos para que cada vez que abra un terminal salga una frase aleatoria de nuestra propia colección.
+
+En primer lugar, instalaremos _fortune_:
+
+```bash
+sudo apt-get update && sudo apt-get install fortune
+```
+
+Ahora necesitamos un fichero de texto (por ejemplo, _fortunes-jorgecasas_) en las que escribiremos frases (cuantas más, mejor). Entre frase y frase, pondremos el símbolo de porcentaje en una línea nueva (_%_). Por ejemplo:
+
+```
+Everything happens for a reason. Sometimes that reason is that you're stupid and make bad choices.
+%
+Toda ardilla es voladora si la tiras con suficiente fuerza
+%
+Software and cathedrals are much the same – first we build them, then we pray 
+%
+```
+
+Este fichero lo guardaremos en el directorio _/usr/share/games/fortunes_, en donde habrá otros ficheros de texto (sin extensión) y otros con extensión _.dat_. Ahora necesitaremos convertir nuestro fichero de texto en _.dat_ para que lo entienda _fortune_. Para ello ejecutamos:
+
+```bash
+strfile -c % fortunes-jorgecasas fortunes-jorgecasas.dat
+```
+
+Ahora, podremos obtener una frase aleatoria escribiendo el siguiente comando (siendo _fortunes-jorgecasas_ el nombre de nuestro fichero de extensión _.dat_):
+
+```bash
+fortune fortunes-jorgecasas
+```
+
+Ahora, en el fichero _~/.bashrc_, al final del todo escribiremos el siguiente código, para sacar la frase en color rojo negrita:
+
+```bash
+# Fortune quotes with colors
+cli_colorize_normal="$(printf '\033[0m')" # returns to normal
+cli_colorize_red="$(printf '\033[0;1;31m')" # set bold red
+printf "%s" "$cli_colorize_red" ; fortune fortunes-jorgecasas ; printf "%s" "$cli_colorize_normal";
+```
+
+Y con esto, una frase nueva cada vez que abras el terminal... Podéis encontrar mi fichero completo en [Github](https://github.com/jorgecasas/fortune), y completarlo con vuestras propias frases.
