@@ -10,7 +10,7 @@ tags:
 thumbnail: /assets/images/2017-08-23-autonomous-rc-car-i-01.jpg
 ---
 
-A pesar de que aún tengo varios [proyectos inacabados](/2014/11/26/proyectos-inacabados) en marcha, este año tengo decidido hacer un _side project_ (proyecto a ir haciendo poco a poco en ratos libres, si es que los tengo), para construir un [coche teledirigido autónomo](http://amzn.to/2veFVdV). Es decir, aprender sobre el coche autónomo y su funcionamiento (que es la base de los coches _inteligentes_ y con conducción autónoma que ya estamos empezando a ver en las carreteras).
+A pesar de que aún tengo varios [proyectos inacabados]({{ site.url }}/2014/11/26/proyectos-inacabados) en marcha, este año tengo decidido hacer un _side project_ (proyecto a ir haciendo poco a poco en ratos libres, si es que los tengo), para construir un [coche teledirigido autónomo](http://amzn.to/2veFVdV). Es decir, aprender sobre el coche autónomo y su funcionamiento (que es la base de los coches _inteligentes_ y con conducción autónoma que ya estamos empezando a ver en las carreteras).
 
 ![Autonomous RC Car](/assets/images/2017-08-23-autonomous-rc-car-i-01.jpg)
 
