@@ -45,6 +45,8 @@ Así, sin necesidad de Arduino extra, tendríamos que modificar el coche teledir
 
 Por tanto, esta va a ser (en principio, luego puede ser que cambie) la forma en la que pretendemos controlar el vehículo, ya que es muy interesante también el poder controlar de forma manual desde el ordenador el coche teledirigido, como si de un _rover_ en suelo marciano se tratara, controlándolo desde lugares remotos.
 
+En la búsqueda, he encontrado además otros muchos proyectos interesantes para obtener el mismo resultado. Si os interesa saber más, podéis acceder a **[Donkey Car](http://www.donkeycar.com/)**, que tiene pasos muy detallados de cómo crear un vehículo autónomo muy autónomo (que incluso compita en carreras con otros vehículos).
+
 
 ## Más información sobre el proyecto
 
