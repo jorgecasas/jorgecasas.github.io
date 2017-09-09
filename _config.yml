@@ -3,6 +3,7 @@ title: jorgecasas.github.io
 description: "CTO iternova.net && Runner && Time traveller since 1637..."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jorgecasas.github.io" # the base hostname & protocol for your site
+logo: logo.png
 
 enforce_ssl: jorgecasas.github.io # do not include protocol, just the domain
 
