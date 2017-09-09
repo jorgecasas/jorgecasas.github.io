@@ -10,7 +10,7 @@ tags:
 thumbnail: /assets/images/2017-09-09-autonomous-rc-car-ii-01.jpg
 ---
 
-Como ya comenté en el post **[Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)**, este año pretendo realizar un _side project_ tecnológico un tanto especial. 
+Como ya comenté en el post **[Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)** este año pretendo realizar un _side project_ tecnológico un tanto especial. 
 
 ![Autonomous RC Car](/assets/images/2017-09-09-autonomous-rc-car-ii-01.jpg)
 
@@ -21,7 +21,7 @@ Tras analizar los requisitos he ido pidiendo los materiales que vamos a necesita
 * Sensores requeridos para la Raspberry Pi 3: Cámara y sensores de infrarrojos
 * Cinta para marcar el circuito por el que el coche deberá circular de forma autónoma, una vez tengamos el prototipo creado.
 
-En principio, el proyecto que me iba a servir de referencia era del de **[Zheng Wang](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)**, el cual ofrecía su código fuente de forma abierta en [Github - hamuchiwa/AutoRCCar](https://github.com/hamuchiwa/AutoRCCar). Este proyecto consistía, brevemente explicado sin detalles, en lo siguiente:
+En principio el proyecto que me iba a servir de referencia era del de **[Zheng Wang](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)**, el cual ofrecía su código fuente de forma abierta en [Github - hamuchiwa/AutoRCCar](https://github.com/hamuchiwa/AutoRCCar). Este proyecto consistía, brevemente explicado sin detalles, en lo siguiente:
 
 * Colocar la Raspberry Pi en el vehículo teledirigido
 * La Raspberry Pi tomaría las imágenes y las enviaría por WiFi al ordenador (conectado en la misma red local)
@@ -45,9 +45,10 @@ Así, sin necesidad de Arduino extra, tendríamos que modificar el coche teledir
 
 Por tanto, esta va a ser (en principio, luego puede ser que cambie) la forma en la que pretendemos controlar el vehículo, ya que es muy interesante también poder controlar de forma manual desde el ordenador el coche teledirigido, como si de un _rover_ en suelo marciano se tratara, controlándolo desde lugares remotos.
 
-En la búsqueda de información he encontrado además otros muchos proyectos interesantes para obtener el mismo resultado. Si os interesa saber más, podéis acceder a **[Donkey Car](http://www.donkeycar.com/)**, que tiene pasos muy detallados de cómo crear un vehículo autónomo muy autónomo (que incluso compita en carreras con otros vehículos).
+En la búsqueda de información he encontrado además otros muchos proyectos interesantes para obtener el mismo resultado. Si os interesa saber más podéis acceder a **[Donkey Car](http://www.donkeycar.com/)**, que tiene pasos muy detallados de cómo crear un vehículo autónomo muy autónomo (que incluso compita en carreras con otros vehículos).
 
 
 ## Más información sobre el proyecto
 
 * [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)
+* [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii)

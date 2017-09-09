@@ -51,3 +51,9 @@ Asimismo, como en el mundo hay mucha gente y alguna es brillante en lo suyo, en 
 Tras la configuración correspondiente, el resultado esperado es un coche que sea capaz de avanzar por una _carretera virtual_ marcada en el suelo sin ayuda humana, e incluso respetar señales y semáforos. Un ejemplo sería el que se puede visualizar en el siguiente vídeo:
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/BBwEF6WBUQs" frameborder="0" allowfullscreen></iframe>
+
+
+## Más información sobre el proyecto
+
+* [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)
+* [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii)
