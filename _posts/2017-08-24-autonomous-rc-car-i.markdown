@@ -52,8 +52,8 @@ Tras la configuración correspondiente, el resultado esperado es un coche que se
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/BBwEF6WBUQs" frameborder="0" allowfullscreen></iframe>
 
-
 ## Más información sobre el proyecto
 
 * [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)
 * [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii)
+* [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii)

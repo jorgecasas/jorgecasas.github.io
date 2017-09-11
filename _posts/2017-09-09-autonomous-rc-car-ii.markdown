@@ -47,8 +47,8 @@ Por tanto, esta va a ser (en principio, luego puede ser que cambie) la forma en 
 
 En la búsqueda de información he encontrado además otros muchos proyectos interesantes para obtener el mismo resultado. Si os interesa saber más podéis acceder a **[Donkey Car](http://www.donkeycar.com/)**, que tiene pasos muy detallados de cómo crear un vehículo autónomo muy autónomo (que incluso compita en carreras con otros vehículos).
 
-
 ## Más información sobre el proyecto
 
 * [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)
 * [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii)
+* [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii)
