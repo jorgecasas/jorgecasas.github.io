@@ -43,12 +43,16 @@ Así, sin necesidad de Arduino extra, tendríamos que modificar el coche teledir
 * El ordenador procesaría las imágenes mediante una red neuronal. 
 * Las diferentes salidas obtenidas en la red neuronal (acelerar, frenar, girar a izquierda y girar a derecha) las transmitiríamos directamente a la Raspberry Pi desde el ordenador utilizando la WiFi (en la misma red local ambos equipos)
 
-Por tanto, esta va a ser (en principio, luego puede ser que cambie) la forma en la que pretendemos controlar el vehículo, ya que es muy interesante también poder controlar de forma manual desde el ordenador el coche teledirigido, como si de un _rover_ en suelo marciano se tratara, controlándolo desde lugares remotos.
+Por tanto, esta podría ser la forma en la que pretendemos controlar el vehículo, ya que es muy interesante también poder controlar de forma manual desde el ordenador el coche teledirigido, como si de un _rover_ en suelo marciano se tratara, controlándolo desde lugares remotos.
 
-En la búsqueda de información he encontrado además otros muchos proyectos interesantes para obtener el mismo resultado. Si os interesa saber más podéis acceder a **[Donkey Car](http://www.donkeycar.com/)**, que tiene pasos muy detallados de cómo crear un vehículo autónomo muy autónomo (que incluso compita en carreras con otros vehículos).
+En la búsqueda de información he encontrado además otros muchos proyectos interesantes para obtener el mismo resultado. Si os interesa saber más podéis acceder a **[Donkey Car](http://www.donkeycar.com/)**, que tiene pasos muy detallados de cómo crear un vehículo autónomo muy autónomo (que incluso compita en carreras con otros vehículos). 
+
+En este caso, es la propia Raspberry Pi la que implementa la red neuronal mediante el uso de [OpenCV](http://opencv.org/) (procesado de imágenes y visión por computador) y [Tensorflow](https://www.tensorflow.org/) (red neuronal con [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) para detectar señales, semáforos, etcétera). Así, directamente podríamos instalar estas librerías (todas ellas _opensource_, código abierto que todo el mundo puede utilizar, modificar, mejorar y compartir) para que sea el propio coche el que conduzca, sin necesidad de ordenador externo (aunque lo seguiremos utilizando para ver qué está viendo y haciendo la red neuronal y dar los comandos de arrancar el vehículo y apagarlo).
+
 
 ## Más información sobre el proyecto
 
-* [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)
-* [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii)
-* [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii)
+* [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i) - Introducción al proyecto
+* [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii) - Primer análisis de requisitos del proyecto
+* [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii) - Primeros pasos de configuración de la Raspberry Pi
+* [Coche RC autónomo (IV)]({{ site.url }}/2017/09/16/autonomous-rc-car-iv) - Configurando la videocámara en la Raspberry Pi

@@ -103,6 +103,8 @@ Si os está gustando y empezáis a ver mil millones de posibilidades utilizando 
 
 ## Más información sobre el proyecto
 
-* [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i)
-* [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii)
-* [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii)
+* [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i) - Introducción al proyecto
+* [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii) - Primer análisis de requisitos del proyecto
+* [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii) - Primeros pasos de configuración de la Raspberry Pi
+* [Coche RC autónomo (IV)]({{ site.url }}/2017/09/16/autonomous-rc-car-iv) - Configurando la videocámara en la Raspberry Pi
+
