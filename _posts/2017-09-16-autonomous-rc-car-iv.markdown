@@ -77,7 +77,9 @@ sudo apt-get install mplayer
 
 Podéis encontrar muchísima más información sobre el uso de la cámara y ejemplos prácticos en el ejemplar de la revista [MagPi - Camera Module Essentials](https://www.raspberrypi.org/magpi/camera-module-essentials/).
 
-En los próximos posts del proyecto se detallará cómo acceder al streaming de la cámara usando Python para ser analizado con OpenCV.
+En los próximos posts del proyecto se detallará cómo acceder al streaming de la cámara usando Python para ser analizado con OpenCV. ¡Os espero!
+
+![Videocámara en acción](/assets/images/2017-09-16-autonomous-rc-car-iv-03.gif)
 
 
 ## Más información sobre el proyecto
