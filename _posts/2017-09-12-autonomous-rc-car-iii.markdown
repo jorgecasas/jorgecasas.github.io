@@ -101,10 +101,13 @@ Como además hemos activado el servicio SSH, podremos conectarnos de forma remot
 
 Si os está gustando y empezáis a ver mil millones de posibilidades utilizando la Raspberry Pi para experimentos, no dejéis de visitar los artículos de la revista [MagPi](https://www.raspberrypi.org/magpi) (que se puede descargar de forma gratuita en PDF).
 
+
 ## Más información sobre el proyecto
 
+* [Código en Github - jorgecasas/autonomous-rc-car](https://github.com/jorgecasas/autonomous-rc-car)
 * [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i) - Introducción al proyecto
 * [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii) - Primer análisis de requisitos del proyecto
 * [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii) - Primeros pasos de configuración de la Raspberry Pi
 * [Coche RC autónomo (IV)]({{ site.url }}/2017/09/16/autonomous-rc-car-iv) - Configurando la videocámara en la Raspberry Pi
+* [Coche RC autónomo (V)]({{ site.url }}/2017/09/24/autonomous-rc-car-v) - Instalando OpenCV (visión por computador)
 
