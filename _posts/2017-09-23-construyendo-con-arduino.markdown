@@ -30,9 +30,7 @@ sudo apt-get install arduino
 
 Una vez instalado, podemos seleccionar de los menús la placa Arduino que vayamos a utilizar (por ejemplo, Arduino UNO) y cargar el programa de ejemplo _Blink_ (que es tan simple que sólo enciende y apaga el led integrado de la placa, pero que permite comprobar que la comunicación entre el ordenador y la placa es correcta mediante el cable USB). Una vez cargado el programa, pulsando el icono de _Cargar / Load_ del IDE podremos transferir el programa al Arduino, y el led comenzará a parpadear.
  
-Si tenemos niños pequeños o estamos aprendiendo a programar, podemos realizar la programación mediante bloques (similar a Scratch).
-
-* Descargamos [S4A](http://s4a.cat/) (Scratch For Arduino) del apartado de descargas. En Ubuntu / Debian es un paquete `.deb`, por lo que tras su descarga habrá que instalarlo mediante el comando:
+Si tenemos niños pequeños o estamos aprendiendo a programar, podemos realizar la programación mediante bloques (similar a Scratch). Descargamos [S4A (Scratch For Arduino)](http://s4a.cat/) del apartado de descargas. En Ubuntu / Debian es un paquete `.deb`, por lo que tras su descarga habrá que instalarlo mediante el comando:
 
 ```bash
 sudo dpkg -i S4A16.deb
