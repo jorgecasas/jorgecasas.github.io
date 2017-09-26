@@ -7,18 +7,18 @@ tags:
 - blog
 - development
 - projects
-thumbnail: /assets/images/2017-09-23-autonomous-rc-car-vi-01.png
+thumbnail: /assets/images/2017-09-27-autonomous-rc-car-vi-01.png
 ---
 
 Llegados a este punto ya tenemos [OpenCV](https://www.opencv.org) instalado (tanto en la Raspberry Pi como en el ordenador para hacer pruebas de forma más sencilla). Con esta librería podremos usar la cámara y Python para la visión por computador. Así, en este post vamos a comentar nuestros primeros scripts en Python para conseguir capturar imágenes de la cámara de la Raspberry Pi usando la librería `picamera` y OpenCV para procesarlos. En el post [Coche RC autónomo (IV) - Configurando la videocámara en la Raspberry Pi]({{ site.url }}/2017/09/16/autonomous-rc-car-iv) ya habíamos conseguido enviar imágenes desde el cliente (Raspberry Pi) al servidor (nuestro ordenador), pero usábamos `netcat` para ello, y nosotros necesitaremos obtener _objetos de tipo imagen_ para poder ser procesadas mediante OpenCV.
 
-![Python en la Raspberry Pi](/assets/images/2017-09-23-autonomous-rc-car-vi-01.png)
+![Python en la Raspberry Pi](/assets/images/2017-09-27-autonomous-rc-car-vi-01.png)
 
 Para ello, igual que hicimos en el post anterior, vamos a enviar imágenes entre la Raspberry Pi (IP en el interfaz WiFi: `192.168.1.199`) al servidor (nuestro ordenador, con IP `192.168.1.235`, con el puerto `8000` abierto en el cortafuegos). En este post vamos a crear los dos primeros _scripts python_, los cuales nos servirán de base para ir programando más adelante todo lo necesario para que el vehículo autónomo pueda _ver y procesar lo que ve_. Los scripts y todo el código que vaya a utilizar los podés descargar de **[Github - jorgecasas/autonomous-rc-car](https://github.com/jorgecasas/autonomous-rc-car)**.
 
 ## Ejecutando scripts Python
 
-Para ejecutar los scripts (tanto en la Raspberry Pi como en el ordenador, donde tenemos instalado las librerías [OpenCV]({{ site.url }}/2017/09/24/autonomous-rc-car-v) y los entornos virtualizados de Python), basta con ejecutar los siguientes comandos:
+Para ejecutar los scripts (tanto en la Raspberry Pi como en el ordenador, donde tenemos instalado las librerías [OpenCV]({{ site.url }}/2017/09/24/autonomous-rc-car-v) y los entornos virtualizados de Python), basta con ejecutar los comandos:
 
 * Acceder al entorno virtualizado:
 
