@@ -176,7 +176,7 @@ if __name__ == '__main__':
 En el cliente incluiremos el siguiente _script_ **stream_client_raspberry.py**. Su cometido es el siguiente:
 
 * Importar librerías (como _socket_ para crear un cliente de sockets, _picamera_ para poder obtener imágenes de la cámara de la Raspberry Pi, etc...)
-* Indicar parámetros de configuració (IP del servidor, puerto del servidor, dimensiones de la imagen a capturar, frames por segundo, duración máxima de envío...)
+* Indicar parámetros de configuración (IP del servidor, puerto del servidor, dimensiones de la imagen a capturar, frames por segundo, duración máxima de envío...)
 * Abrimos un _socket_ a la dirección IP y puerto del servidor.
 * Inicializamos la cámara de la Raspberry Pi, dándole 2 segundos para inicializarse
 * Enviamos imágenes en forma de _stream JPEG_ al servidor hasta que pase el tiempo máximo _recording_time_ o se cierre la comunicación (pulsando `Ctrl + C`, etcétera)
@@ -253,3 +253,5 @@ En los siguientes posts iremos actualizando estos scripts para ir introduciendo 
 * [Coche RC autónomo (IV)]({{ site.url }}/2017/09/16/autonomous-rc-car-iv) - Configurando la videocámara en la Raspberry Pi
 * [Coche RC autónomo (V)]({{ site.url }}/2017/09/24/autonomous-rc-car-v) - Instalando OpenCV (visión por computador)
 * [Coche RC autónomo (VI)]({{ site.url }}/2017/09/27/autonomous-rc-car-vi) - Probando la cámara usando Python, OpenCV y streaming
+* [Coche RC autónomo (VII)]({{ site.url }}/2017/10/02/autonomous-rc-car-vii) - Configurando el sensor ultrasónico HC-SR04 para detectar objetos
+
