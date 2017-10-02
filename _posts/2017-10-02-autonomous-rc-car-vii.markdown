@@ -138,10 +138,4 @@ Este código lo adaptaremos en los próximos pasos dentro de nuestro _script_ gl
 ## Más información sobre el proyecto
 
 * [Código en Github - jorgecasas/autonomous-rc-car](https://github.com/jorgecasas/autonomous-rc-car)
-* [Coche RC autónomo (I)]({{ site.url }}/2017/08/23/autonomous-rc-car-i) - Introducción al proyecto
-* [Coche RC autónomo (II)]({{ site.url }}/2017/09/09/autonomous-rc-car-ii) - Primer análisis de requisitos del proyecto
-* [Coche RC autónomo (III)]({{ site.url }}/2017/09/12/autonomous-rc-car-iii) - Primeros pasos de configuración de la Raspberry Pi
-* [Coche RC autónomo (IV)]({{ site.url }}/2017/09/16/autonomous-rc-car-iv) - Configurando la videocámara en la Raspberry Pi
-* [Coche RC autónomo (V)]({{ site.url }}/2017/09/24/autonomous-rc-car-v) - Instalando OpenCV (visión por computador)
-* [Coche RC autónomo (VI)]({{ site.url }}/2017/09/27/autonomous-rc-car-vi) - Probando la cámara usando Python, OpenCV y streaming
-* [Coche RC autónomo (VII)]({{ site.url }}/2017/10/02/autonomous-rc-car-vii) - Configurando el sensor ultrasónico HC-SR04 para detectar objetos
+* [Coche RC autónomo - Índice del proyecto Construyendo un vehículo autónomo]({{ site.url }}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo)
