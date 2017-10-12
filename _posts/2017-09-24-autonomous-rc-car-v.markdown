@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coche RC autónomo (V)"
+title:  "Coche RC autónomo (V) - Instalando OpenCV (visión por computador)"
 date:   2017-09-24 14:45:00
 categories: blog development projects
 tags:

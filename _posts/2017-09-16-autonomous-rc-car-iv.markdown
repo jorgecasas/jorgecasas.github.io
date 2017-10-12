@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coche RC autónomo (IV)"
+title:  "Coche RC autónomo (IV) - Configurando la videocámara en la Raspberry Pi"
 date:   2017-09-16 22:45:00
 categories: blog development projects
 tags:

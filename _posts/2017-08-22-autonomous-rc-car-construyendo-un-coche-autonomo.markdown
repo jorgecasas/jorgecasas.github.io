@@ -28,4 +28,5 @@ Si también te gustan estos temas, a continuación puedes encontrar el índice d
 * [Coche RC autónomo (V)]({{ site.url }}/2017/09/24/autonomous-rc-car-v) - Instalando OpenCV (visión por computador)
 * [Coche RC autónomo (VI)]({{ site.url }}/2017/09/27/autonomous-rc-car-vi) - Probando la cámara usando Python, OpenCV y streaming
 * [Coche RC autónomo (VII)]({{ site.url }}/2017/10/02/autonomous-rc-car-vii) - Configurando el sensor ultrasónico HC-SR04 para detectar objetos
+* [Coche RC autónomo (VIII)]({{ site.url }}/2017/10/12/autonomous-rc-car-viii) - Usando threads para enviar y recibir datos del sensor ultrasónico e imágenes desde la Raspberry Pi
 

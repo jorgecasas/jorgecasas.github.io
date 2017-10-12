@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coche RC autónomo (VI)"
+title:  "Coche RC autónomo (VI) - Probando la cámara usando Python, OpenCV y streaming"
 date:   2017-09-27 14:45:00
 categories: blog development projects
 tags:

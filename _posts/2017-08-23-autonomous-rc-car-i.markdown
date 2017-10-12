@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coche RC autónomo (I)"
+title:  "Coche RC autónomo (I) - Introducción al proyecto"
 date:   2017-08-23 14:15:00
 categories: blog development projects
 tags:

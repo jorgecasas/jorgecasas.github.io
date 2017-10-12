@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coche RC autónomo (VII)"
+title:  "Coche RC autónomo (VII) - Configurando el sensor ultrasónico HC-SR04 para detectar objetos"
 date:   2017-10-02 14:45:00
 categories: blog development projects
 tags:

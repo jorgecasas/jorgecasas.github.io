@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coche RC autónomo (III)"
+title:  "Coche RC autónomo (III) - Primeros pasos de configuración de la Raspberry Pi"
 date:   2017-09-12 14:45:00
 categories: blog development projects
 tags:

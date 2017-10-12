@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coche RC autónomo (II)"
+title:  "Coche RC autónomo (II) - Primer análisis de requisitos del proyecto"
 date:   2017-09-09 14:15:00
 categories: blog development projects
 tags:
