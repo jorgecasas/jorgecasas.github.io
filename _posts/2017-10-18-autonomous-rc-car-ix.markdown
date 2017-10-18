@@ -175,6 +175,19 @@ El resultado será similar al de la imagen que acompaña este post: Somos capace
 
 En próximos capítulos continuaremos con la calibración de las imágenes obtenidas de la cámara para poder calcular a qué distancia está la señal de STOP. ¡Espero que os guste!
 
+## Actualización 2017-10-19
+
+En el directorio `script_tests` del repositorio de [Github - jorgecasas/autonomous-rc-car](https://github.com/jorgecasas/autonomous-rc-car) he añadido el _script_ `cascade_classifier_test.py`, junto al directorio `cascade_classifier_test` en el que hay varias imágenes que contienen señales de tráfico en entornos reales. Ejecutando dicho _script_ podemos probar nuestro clasificador directamente en nuestro ordenador sin necesidad de conectar la Raspberry Pi, indicando qué imagen de prueba queremos usar y la ruta al descriptor XML de nuestro clasificador en cascada. Así lo podemos probar y podemos comprobar como nuestro clasificador está bien entrenado, comparándolo con otros ficheros descriptores.
+
+```bash
+python cascada_classifier_test.py -c ../cascade_xml/stop_sign.xml -i images/stop-0020.jpg 
+```
+
+Si creamos otros descriptores de otros objetos, este _script_ nos puede servir para probarlos. Asimismo, podremos ver que pueden darse algunos falsos positivos (encuentra señal de STOP donde no la hay), y algunos falsos negativos (hay señal de STOP pero no la reconoce). Tampoco nos tiene que preocupar en nuestro proyecto que no detecte alguna imagen, porque en modo vídeo lo detectará en los siguientes fotogramas. El resultado será algo como lo siguiente:
+
+![Señal de STOP detectada](/assets/images/2017-10-18-cascade-classifier-stop-detected.jpg)
+
+
 ## Más información sobre el proyecto
 
 * [Código en Github - jorgecasas/autonomous-rc-car](https://github.com/jorgecasas/autonomous-rc-car)
