@@ -101,13 +101,15 @@ Para crear, por ejemplo, 1000 _samples_ a partir de una imagen:
 opencv_createsamples -img positives/0001.jpg -bg negatives.dat -num 1000 -w 50 -h 50 -maxxangle 1.1 -maxyangle 1.1 -maxzangle 0.5 -maxidev 40 -vec positive-samples.vec
 ```
 
-Para **visualizar los _samples_ generados**, podemos ejecutar el siguiente comando:
+Para visualizar los _samples_ generados, podemos ejecutar el siguiente comando:
 
 ```bash
 opencv_createsamples -vec positive-samples.vec -w 50 -h 50
 ```
 
-Una vez tengamos suficientes _samples_, tenemos que entrenar el clasificador. Necesitaremos miles de _samples_ (cuantos más, mejor... sobre todo cuanto más complejo sea el objeto), o nos dará error el siguiente paso indicando que tenemos insuficientes samples. Las opciones son conseguir más imágenes o distorsionarlas y crear varios ficheros `.vec` para luego unirlos. Para unirlos podemos usar [mergevec](https://github.com/wulfebw/mergevec). En nuestro caso, para detectar la señal de STOP utilizamos 248 _samples positivos_ (recortados para que únicamente se visualice el objeto, la señal de STOP) y 1000 negativos.
+Una vez tengamos suficientes _samples_, tenemos que entrenar el clasificador. Necesitaremos miles de _samples_ (cuantos más, mejor... sobre todo cuanto más complejo sea el objeto), o nos dará error el siguiente paso indicando que tenemos insuficientes samples. Las opciones son conseguir más imágenes o distorsionarlas y crear varios ficheros `.vec` para luego unirlos. Para unirlos podemos usar [mergevec](https://github.com/wulfebw/mergevec). 
+
+En nuestro caso, para detectar la señal de STOP utilizamos 248 _samples positivos_ (recortados para que únicamente se visualice el objeto, la señal de STOP) y 1000 negativos.
 
 ## Entrenando al clasificador con los _samples_ positivos y negativos
 
