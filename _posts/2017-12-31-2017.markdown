@@ -34,10 +34,11 @@ La lista de cosas que tenía pensado hacer este año no era muy larga, pero aún
   * También hemos hecho unos cuantos desarrollos para la [impresora 3D]({{site.url}}/2016/12/23/3d) e incluso he participado en el [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 * **Correr / ir en bici, al menos 4 veces por semana**: 
-  * Conseguido y con creces. He conseguido no lesionarme en todo el año (desde que el año pasado me rompiera el metatarso). He tenido alguna molestia, pero no me ha impedido poder ir en [bici]({{site.url}}/2016/07/26/iternova-smartbike-01), por lo que no he necesitado parar del todo.
+  * Conseguido y con creces. He conseguido no lesionarme en todo el año (desde que el año pasado me rompiera el metatarso). He tenido alguna molestia, pero no me ha impedido poder ir en [bici]({{site.url}}/2016/07/26/iternova-smartbike-01) o salir a correr con el [carro de Martina]({{site.url}}/2016/05/08/locos-sobre-ruedas), por lo que no he necesitado parar del todo.
   * He competido poco, pero con muy buenas sensaciones (para lo que entreno y para la edad que vamos teniendo), e incluso he conseguido hacer marcas que no conseguía desde hace 7 años (como bajar de 35 minutos el 10K o de 1h12 en la Behobia San Sebastián):
     - 10K (10K Pilar - Zaragoza): 34:57
     - Behobia San Sebastián (20K): 71:44 (puesto 98)
+  * También he salido bastante con la bici (bastante para lo que suelo salir yo), y este año sólo he pinchado 2 veces (el mismo día, las dos ruedas). También fue divertido un día que salí de día y volví de noche (con focos y con liebres cruzándose delante de la luz)...
 
 En definitiva ha sido un buen año personal. Así, voy a hacer la lista de _TO-DO_ para el año 2018:
 
