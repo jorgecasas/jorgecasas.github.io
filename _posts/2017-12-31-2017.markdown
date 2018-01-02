@@ -38,9 +38,9 @@ La lista de cosas que tenía pensado hacer este año no era muy larga, pero aún
   * Conseguido y con creces. He conseguido no lesionarme en todo el año (desde que el año pasado me rompiera el metatarso). He tenido alguna molestia, pero no me ha impedido poder ir en [bici]({{site.url}}/2016/07/26/iternova-smartbike-01), por lo que no he necesitado parar del todo.
   * He competido poco, pero con muy buenas sensaciones (para lo que entreno y para la edad que vamos teniendo), e incluso he conseguido hacer marcas que no conseguía desde hace 7 años (como bajar de 35 minutos el 10K o de 1h12 en la Behobia San Sebastián):
     - 10K (10K Pilar - Zaragoza): 34:57
-    - Behobia San Sebastián (20K): 72:44 (puesto 98)
+    - Behobia San Sebastián (20K): 71:44 (puesto 98)
 
-En definitiva, ha sido un buen año personal. Así, voy a hacer la lista para el año 2018. Cada vez me parece que es más corta:
+En definitiva ha sido un buen año personal. Así, voy a hacer la lista de _TO-DO_ para el año 2018:
 
 * **Mantener este blog personal**
 * **Leer libros, escuchar podcasts y participar en webinarios tecnológicos de forma frecuente** (en definitiva, para aprender nuevas cosas)
