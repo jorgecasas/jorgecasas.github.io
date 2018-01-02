@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "2017"
+date:   2017-12-31 12:00:00
+categories: blog review
+tags:
+- blog
+- review
+thumbnail: /assets/images/2017-12-31-2017.jpg
+---
+
+
+[Como ya hice el año pasado por estas fechas]({{site.url}}/2016/12/17/2016), voy a hacer un resumen de lo que ha sido para mí el año 2017, para ver las desviaciones típicas entre lo planificado / deseado y la realidad. En general, ha sido un año muy divertido en el que menos descansar he hecho de todo: Volver a competir con buenas sensaciones, disfrutar al aire libre con Bruno y Martina haciendo mil cosas diferentes (desde ir en bici, con el carro azul de correr o jugando en cualquier parte), aprender un montón de cosas del movimiento _maker_ (desde impresión 3D hasta empezar a trastear con Arduino / Raspberry Pi y el mundo _IoT_), volver a ver a viejos amigos...
+
+![Feliz 2018 y siguientes]({{site.url}}/assets/images/2017-12-31-2017.jpg)
+
+La lista de cosas que tenía pensado hacer este año no era muy larga, pero aún así... 
+
+* **Mantener este blog personal**: 
+  * Conseguido. Sobre todo he ido poniendo posts sobre el proyecto personal de esta temporada **[Construyendo un vehículo RC autónomo]({{site.url}}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo)**, por lo que he conseguido mantenerlo vivo.
+  * También he hecho un poco de limpieza / organización, y le he introducido alguna pequeña mejora (sobre todo, de estilos)
+
+* **Leer libros, escuchar podcasts y participar en webinarios tecnológicos de forma frecuente** (en definitiva, para aprender nuevas cosas)
+  * Conseguido. De forma recurrente he estado escuchando _podcasts_, he visto _webinarios_, y he leído blogs y libros técnicos (y no técnicos) de diferentes temáticas que sé que me van a servir.
+  * Por ejemplo, estas charlas de Codemotion me gustaron mucho: [Las reglas que hay que romper para que tu equipo de desarrollo sea el más rápido, de Javier Abadía](https://www.youtube.com/watch?v=VnrynReafSg) y [Machine learning para tertulianos, opinadores y otra gente sin neuronas, de Javier Ramirez](https://www.youtube.com/watch?v=fKVOFL3uT8I)
+  * De libros, me han gustado mucho [Rise of the Robots](http://amzn.to/2CqyrMz) (sobre [los robots malos malos que nos quitarán los trabajos](/2016/09/09/inteligencia-artificial)) y [Digital Gold](http://amzn.to/2lFd5zC) (sobre Bitcoin y las nuevas monedas virtuales, para aprender un poco más sobre su historia y cómo funcionan). De ficción, aunque los anteriores libros así lo parezcan, tengo que recomendar como todos los años [La Guía del autoestopista galáctico](http://amzn.to/2lDVg47) de [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) (pero no solo el primer libro, sino también los siguientes, como [Mostly Harmless](http://amzn.to/2lEBxRT))
+  * Y por último, **una serie de televisión que debería ser vista por todos los niños en todos los colegios: [Cosmos](https://www.netflix.com/title/80004448)**
+
+* **Ir en bici y patinar con [Bruno](https://twitter.com/brunocasasabos) y [Martina](https://twitter.com/martinacasasab)**:
+  * Hemos ido en bici, hemos patinado y hemos ido a entrenar (Bruno en bici, Martina en su carro y yo corriendo empujando el carro)
+  * También hemos jugado a la pelota, hemos ido al cine y a la piscina, hemos participado en la [Hora de código](https://code.org/), hemos aprendido a programar usando bloques (Scratch, Arduino)...
+
+* **Terminar al menos uno de los proyectos inacabados**
+  * No está terminado del todo, pero estamos en proceso. Y está siendo muy interesante: **[Construyendo un vehículo RC autónomo]({{site.url}}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo)**
+  * También hemos hecho unos cuantos desarrollos para la [impresora 3D]({{site.url}}/2016/12/23/3d) e incluso he participado en el [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+* **Correr / ir en bici, al menos 4 veces por semana**: 
+  * Conseguido y con creces. He conseguido no lesionarme en todo el año (desde que el año pasado me rompiera el metatarso). He tenido alguna molestia, pero no me ha impedido poder ir en [bici]({{site.url}}/2016/07/26/iternova-smartbike-01), por lo que no he necesitado parar del todo.
+  * He competido poco, pero con muy buenas sensaciones (para lo que entreno y para la edad que vamos teniendo), e incluso he conseguido hacer marcas que no conseguía desde hace 7 años (como bajar de 35 minutos el 10K o de 1h12 en la Behobia San Sebastián):
+    - 10K (10K Pilar - Zaragoza): 34:57
+    - Behobia San Sebastián (20K): 72:44 (puesto 98)
+
+En definitiva, ha sido un buen año personal. Así, voy a hacer la lista para el año 2018. Cada vez me parece que es más corta:
+
+* **Mantener este blog personal**
+* **Leer libros, escuchar podcasts y participar en webinarios tecnológicos de forma frecuente** (en definitiva, para aprender nuevas cosas)
+* **Hacer muchas cosas interesantes con [Bruno](https://twitter.com/brunocasasabos) y [Martina](https://twitter.com/martinacasasab)**: Esto sé que lo voy a conseguir.
+* **Terminar el proyecto inacabado [Construyendo un vehículo RC autónomo]({{site.url}}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo) y comenzar otro**
+* **Correr / ir en bici, al menos 4 veces por semana**: Ya tenemos planificadas algunas carreras (como el campeonato del mundo de Media Maratón a celebrarse en Valencia, en marzo). Ahora solo falta entrenar...
+
+Y hasta aquí los buenos propósitos. ¡El año que viene más y mejor!
