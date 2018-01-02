@@ -9,8 +9,7 @@ tags:
 thumbnail: /assets/images/2017-12-31-2017.jpg
 ---
 
-
-[Como ya hice el año pasado por estas fechas]({{site.url}}/2016/12/17/2016), voy a hacer un resumen de lo que ha sido para mí el año 2017, para ver las desviaciones típicas entre lo planificado / deseado y la realidad. En general, ha sido un año muy divertido en el que menos descansar he hecho de todo: Volver a competir con buenas sensaciones, disfrutar al aire libre con Bruno y Martina haciendo mil cosas diferentes (desde ir en bici, con el carro azul de correr o jugando en cualquier parte), aprender un montón de cosas del movimiento _maker_ (desde impresión 3D hasta empezar a trastear con Arduino / Raspberry Pi y el mundo _IoT_), volver a ver a viejos amigos...
+[Como ya hice el año pasado por estas fechas]({{site.url}}/2016/12/16/2016), voy a hacer un resumen de lo que ha sido para mí el año 2017, para ver las desviaciones típicas entre lo planificado / deseado y la realidad. En general, ha sido un año muy divertido en el que menos descansar he hecho de todo: Volver a competir con buenas sensaciones, disfrutar al aire libre con Bruno y Martina haciendo mil cosas diferentes (desde ir en bici, con el carro azul de correr o jugando en cualquier parte), aprender un montón de cosas del movimiento _maker_ (desde impresión 3D hasta empezar a trastear con Arduino / Raspberry Pi y el mundo _IoT_), volver a ver a viejos amigos...
 
 ![Feliz 2018 y siguientes]({{site.url}}/assets/images/2017-12-31-2017.jpg)
 
