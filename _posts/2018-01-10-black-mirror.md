@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Black Mirror"
-date:   2018-01-09 18:20:00
+date:   2018-01-10 18:20:00
 categories: blog development
 tags:
 - blog
@@ -54,3 +54,4 @@ Y así, sin que nadie se lo espere, miles de usuarios, sin saberlo, están siend
 Incluso hay desarrolladores malignos que usando esta misma técnica han conseguido que webs de ["grandes" empresas (como Movistar) minen criptomonedas para su beneficio personal](https://hipertextual.com/2017/12/movistar-usa-ordenadores-visitantes-su-web-minar-criptomonedas) gracias a los miles de usuarios que las visualizan a diario (algunos de ellos ni se dieron cuenta de que su ordenador iba un 100% más lento que de costumbre al visitar dichas webs).
 
 Y tras leer este ladrillo, **si no tenéis un poco de miedo a este futuro distópico es que vivís en uno de los mundos de Black Mirror y ya lo tenéis asumido**. Bienvenidos a San Junípero.
+
