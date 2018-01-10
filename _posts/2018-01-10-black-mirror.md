@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Black Mirror"
-date:   2018-01-09 18:15:00
+date:   2018-01-09 18:20:00
 categories: blog development
 tags:
 - blog
@@ -13,7 +13,7 @@ thumbnail: /assets/images/2018-01-10-black-mirror.jpg
 
 La serie [Black Mirror](https://www.netflix.com/title/70264888) trata sobre un futuro distópico no muy lejano (o lejano) donde todo está conectado gracias a la tecnología de una forma u otra, y que permitirá al ser humano disfrutar de nuevas capacidades, las cuales pueden tener sus riesgos y sobrepasar cualquier aspecto ético y moral que nos pueda quedar como especie. 
 
-![Black Mirror](/assets/images/2018-01-10-black-mirror.jpg)
+![Black Mirror]({{site.url}}/assets/images/2018-01-10-black-mirror.jpg)
 
 Hay capítulos en los que gracias a la tecnología podemos [viajar sin tener que conducir]({{site.url}}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo), acceder a los recuerdos (para resolver un crimen), tener una videocámara permanente en nuestro cerebro (siendo capaces de ver todo lo que nos ha ido ocurriendo en el pasado), estar [monitorizados en todo momento](https://www.statnews.com/2017/06/07/wearable-devices-health-care-savings/) y [en toda acción](https://www.xataka.com/privacidad/20-millones-de-camaras-equipadas-con-inteligencia-artificial-hacen-que-china-sea-el-verdadero-gran-hermano) o tener una [vida virtual paralela](https://www.forbes.com/sites/quora/2017/05/25/how-close-are-we-to-creating-full-immersion-vr-worlds/). Hay otros capítulos en los que parece que alguien nos vigila y sabe todo de nosotros, sin tener privacidad alguna, o en la que nuestro círculo social nos [juzge](https://hipertextual.com/2017/04/puntuacion-usuarios-uber) según los [_me gusta_ del resto de personas que nos rodee](http://www.lavanguardia.com/tecnologia/20171107/432679958989/china-sistema-deteccion-personas.html). 
 
