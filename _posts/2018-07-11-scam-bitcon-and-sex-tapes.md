@@ -100,8 +100,18 @@ Sabiendo todos estos puntos anteriores, varios comentarios para ver que es una e
 * ¿Cómo sabe _Donalt_ que he abierto el email si en el código fuente del email no hay ni rastro ni de imágenes, enlaces, scripts de seguimiento... siendo además que Gmail y cualquier lector de correo los bloquea y elimina por defecto? ¿Quizá nuestro buen amigo _Donalt_ se esté tirando un farol todo el tiempo?
 * Todos estos emails tratan de infundir prisa y miedo: Si en menos de X horas no pagas... Si contestas a este email se desencadenará una sucesión de catastróficas desdichas... Sé que has abierto el mail... Esta oferta no es negociable... Esta técnica es muy utilizada en ciertas campañas de _marketing_ en las que te intentan vender cosas, como una alarma porque han robado a tu vecina en el chalé de la playa...
 * Si pagas a una dirección de Bitcoin... ¿Cómo sabe el susodicho que eres tú el que ha pagado y no otro? ¿Estás seguro que después de pagar no va a enviar el supuesto vídeo de todas formas? No hay forma de asegurarse nada de esto, ya que ni siquiera sabe desde qué dirección de Bitcoin vas a enviar el dinero... 
+* Si hay que pagar en Bitcoins, ¿por qué nuestro amigo _Donalt_ nos pide 1900$? ¿Eso cuántos Bitcoins son? El valor de Bitcoin cambia cada segundo de forma sorprendente: Ahora vale 5000$, ahora 7800$, ahora 6750$, ahora 8200$... Así no hay quien se aclare...
 * ¿Es rentable este tipo de estafas? Sí. Y mucho. Se pueden ver las transacciones realizadas a la dirección de Bitcoin en webs como [Block Explorer](https://blockexplorer.com). En el caso de nuestro amigo _Donalt_, a día de hoy ya ha recibido unos 3000$ en esa dirección por parte de cuatro pardillos...
 
 Asi pues, no seáis incautos. Estos bulos se caen por sí solos. **Nadie tiene ganas de veros en un vídeo**. Ni el viejo y pervertido _Donalt_.
 
 PD: Si queréis saber un poco más sobre Bitcoin, cómo funciona y porqué se usa en este tipo de estafas (y en otras cosas legales), os recomiendo el libro **[Digital Gold](https://amzn.to/2L3ZWyW)**, donde se narra la historia de su creación y evolución.
+
+## Actualización 2018-07-31
+
+Para comprender lo **rentable** que son estos tipos de estafas:
+
+* El primer día que recibí el correo, en la cuenta de Bitcoin que indicaba en el mail 4 personas habían pagado un total de unos 3000$
+* A los 4 días, 15 personas habían pagado un total de 15000$
+* En estas 3 semanas posteriores, un total de 17 personas un total de 21000$ (teniendo en cuenta también que el valor de Bitcoin ha pasado de 6500$ a 8100$)
+* Y acabo de recibir 2 correos idénticos más (solo que ahora, como ven que no pago, han bajado de 1900$ a solo 1000$)
