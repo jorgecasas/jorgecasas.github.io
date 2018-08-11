@@ -115,3 +115,27 @@ Para comprender lo **rentable** que son estos tipos de estafas:
 * A los 4 días, 15 personas habían pagado un total de 15000$
 * En estas 3 semanas posteriores, un total de 17 personas un total de 21000$ (teniendo en cuenta también que el valor de Bitcoin ha pasado de 6500$ a 8100$)
 * Y acabo de recibir 2 correos idénticos más (solo que ahora, como ven que no pago, han bajado de 1900$ a solo 1000$)
+
+## Actualización 2018-08-11
+
+Están comenzando a llegar nuevas variaciones del mail anterior. Ahora también indican que tiene mi número de teléfono, o al menos, los últimos 4 últimos dígitos (es decir, en los datos expuestos de alguna web del año 2006-2007 debían solicitar el teléfono, además del email). Curiosamente, aunque ya no lo envía el viejo _Donalt_ el email es un calco de los anteriores, y ya lleva recaudados unos 2000$...
+
+```
+It seems that, +XX XXXXXXXXX, is your phone. You may not know me and you are probably wondering why you are getting this e mail, right?
+
+actually, I setup a malware on the adult vids (porno) web-site and guess what, you visited this site to have fun (you know what I mean). While you were watching videos, your internet browser started out functioning as a RDP (Remote Desktop) having a keylogger which gave me accessibility to your screen and web cam. after that, my software program obtained all of your contacts from your Messenger, FB, as well as email.
+
+What did I do?
+
+I backuped phone. All photo, video and contacts.
+I created a double-screen video. 1st part shows the video you were watching (you've got a good taste haha...), and 2nd part shows the recording of your web cam.
+
+exactly what should you do? Well, in my opinion, $1000 is a fair price for our little secret. You'll make the payment by Bitcoin (if you do not know this, search "how to buy bitcoin" in Google).
+
+BTC Address: XXXXXXXXXXXXXXXXX (It is cAsE sensitive, so copy and paste it)
+
+Important:
+You have 48 hour in order to make the payment. (I've a unique pixel in this e mail, and at this moment I know that you have read through this email message). If I do not get the BitCoins, I will certainly send out your video recording to all of your contacts including relatives, coworkers, and so on. Having said that, if I receive the payment, I'll destroy the video immidiately. If you need evidence, reply with "Yes!" and I will certainly send out your video recording to your 6 contacts. It is a non-negotiable offer, that being said don't waste my personal time and yours by responding to this message.
+
+```
+
