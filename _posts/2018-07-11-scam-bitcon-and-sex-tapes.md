@@ -139,3 +139,7 @@ You have 48 hour in order to make the payment. (I've a unique pixel in this e ma
 
 ```
 
+## Actualización 2018-09-16
+
+* De vez en cuando, el viejo y pervertido _Donalt_ y sus secuaces me siguen enviando emails con las mismas palabras, mismos argumentos y mismas amenazas de enviarles el supuesto vídeo a mis 14 amigos de Messenger. Algunos emails ya ni vienen con la contraseña, directamente ponen palabras al azar. Eso sí, como el Bitcoin se está depreciando por segundos, cada vez piden más dólares... Hemos pasado de 3000$ a 4000$, luego a 5000$ y a 6000$ y ahora a 7000$: Estamos ante una burbuja cerca de explotar.
+
