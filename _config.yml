@@ -47,7 +47,6 @@ permalink: /:year/:month/:day/:title
 share: true
 
 # Gems >> gem install GEM >> gem update
-#gems: ['jekyll-twitter-plugin']
 gems: ['jekyll-paginate','jekyll-seo-tag']
 
 # Plugin - sitemap 
