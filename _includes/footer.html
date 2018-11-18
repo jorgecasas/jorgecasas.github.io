@@ -18,7 +18,7 @@
             </div>
         </div>
         {% include socialnetworkicons.html %}
-        
+        {% if site.user.linkedin %}{% include linkedin-profile-viewer.html %}{% endif %}
     </div>
 </footer>
 {% if site.google.analytics_id %}{% include google_analytics.html %}{% endif %}
