@@ -143,3 +143,41 @@ You have 48 hour in order to make the payment. (I've a unique pixel in this e ma
 
 * De vez en cuando, el viejo y pervertido _Donalt_ y sus secuaces me siguen enviando emails con las mismas palabras, mismos argumentos y mismas amenazas de enviarles el supuesto vídeo a mis 14 amigos de Messenger. Algunos emails ya ni vienen con la contraseña, directamente ponen palabras al azar. Eso sí, como el Bitcoin se está depreciando por segundos, cada vez piden más dólares... Hemos pasado de 3000$ a 4000$, luego a 5000$ y a 6000$ y ahora a 7000$: Estamos ante una burbuja cerca de explotar.
 
+## Actualización 2018-11-27
+
+Ahora comienzan a llegar mails en español. **Y no pueden dar más pena**, ni siquiera se esfuerza en mostrarme mi nombre, mi correo electrónico o mi password obsoleto... Así no, hacker, así no... Al menos es sincero: ¡Habrá risas cuando envíe estas fotos a tus contactos!
+
+
+```
+Hola,
+Soy un hacker que rompió su correo electrónico y dispositivo hace unos meses.
+Usted ingresó una contraseña en uno de los sitios que visitó y yo la intercepté.
+Mi malware lo actualizaba cada vez.
+No intentes contactar conmigo o encontrarme, es imposible, ya que te envié un correo electrónico desde tu cuenta.
+A través de su correo electrónico, cargué un código malicioso en su sistema operativo.
+Guardé todos sus contactos con amigos, colegas, familiares y un historial completo de visitas a los recursos de Internet.
+También instalé un troyano en tu dispositivo y un largo espionaje para ti.
+Tú no eres mi única víctima, normalmente cierro las computadoras y pido un rescate.
+Pero me impresionaron los sitios de contenido íntimo que visitas con frecuencia.
+Estoy en shock de tus fantasías! Nunca he visto nada como esto!
+Entonces, cuando te divertiste en sitios picantes (¡sabes lo que quiero decir!)
+Hice una captura d e pantalla con el uso de mi programa desde la cámara de su dispositivo.
+Después de eso, los combiné con el contenido del sitio actualmente visto.
+¡Habrá risas cuando envíe estas fotos a tus contactos!
+PERO estoy seguro de que no lo quieres.
+Por lo tanto, espero pago de usted por mi silencio.
+Creo que 500 EUR es un precio aceptable para ello!
+Paga con Bitcoin.
+Mi billetera BTC: XXXXXXXXXXXXXXXXXX
+Si no sabe cómo hacerlo, ingrese en Google "cómo transferir dinero a una billetera de bitcoin". No es difícil.
+Después de recibir la cantidad especificada, todos sus datos serán destruidos inmediatamente de forma automática. Mi virus también se eliminará de su sistema operativo.
+Mi troyano tiene alerta automática, después de leer este correo electrónico, lo sabré.
+Te doy 1 días (24 horas) para hacer un pago.
+¡Si esto no sucede, todos tus contactos recibirán disparos locos de tu oscura vida secreta!
+Y para que no obs truyas, tu dispositivo será bloqueado (también después de 24 horas)
+¡No seas tonto!
+La policía o los amigos no te ayudarán con seguridad ...
+PD. Puedo darte consejos para el futuro. No ingrese sus contraseñas en sitios inseguros.
+Espero tu prudencia.
+
+```
