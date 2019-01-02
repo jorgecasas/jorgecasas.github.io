@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "2018"
+date:   2018-12-31 12:00:00
+categories: blog review
+tags:
+- blog
+- review
+thumbnail: /assets/images/2018-12-31-2018.jpg
+---
+
+[Como ya hice el año pasado por estas fechas]({{site.url}}/2017/12/31/2017), voy a hacer un resumen de lo que ha sido para mí el año 2018, para ver las desviaciones típicas entre lo planificado / deseado y la realidad. En general, ha sido un año en el que he hecho muchas cosas (aunque siempre menos de las que me gustaría haber hecho), pero no me puedo quejar.
+
+![Feliz 2018 y siguientes, al igual que el año pasado]({{site.url}}/assets/images/2018-12-31-2018.jpg)
+
+La lista de cosas que tenía pensado hacer este año no era muy larga, pero aún así... 
+
+* **Mantener este blog personal**: 
+  * Un poco de suspenso. Apenas he tenido ganas de escribir nada, unas veces por falta de ideas, otras veces por falta de tiempo. Sí, todo el mundo sabe tras leer frases inspiracionales de Mr Wonderful que si se quiere se puede, pero no nos engañemos: Esas tazas son horribles. Tampoco he avanzado mucho en proyectos personales que podría haber ido comentando, así que no he podido divulgar nada interesante como eran los posts de **[Construyendo un vehículo RC autónomo]({{site.url}}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo)**. Al menos, el blog sigue funcional.
+  * Eso sí, he hecho un poco de limpieza / organización y le he introducido alguna pequeña mejora (sobre todo, de estilos)
+
+* **Leer libros, escuchar podcasts y participar en webinarios tecnológicos de forma frecuente** (en definitiva, para aprender nuevas cosas)
+  * Conseguido. De forma recurrente he estado escuchando _podcasts_ y he visto _webinarios_ en español e inglés. También he leído blogs y libros técnicos (y no técnicos) de diferentes temáticas que sé que me van a servir.
+  * Por ejemplo, me han gustado (entre otros) algunas charlas / documentales como [The modern principles of desing - Braun](https://www.youtube.com/watch?v=zNQv0ZX2eno&index=2&list=PLARHdv-87rPyD4cDyFbBGJn8dAhL9VJS2&t=0s)
+  * De libros, me han gustado mucho [Factfulness](https://amzn.to/2R2N9jP) (de Hans Rosling y su familia, sobre el mundo actual y porqué no estamos tan mal como pensamos) y [Clean Code](https://amzn.to/2R81w6z) (sobre programación, con muchos aspectos a tener en cuenta que parecen básicos pero que no está de mal recordar). De ficción, aunque los anteriores libros así lo parezcan, tengo que recomendar como todos los años [La Guía del autoestopista galáctico](http://amzn.to/2lDVg47) de [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) (pero no solo el primer libro, sino también los siguientes, como [Mostly Harmless](http://amzn.to/2lEBxRT)), y algunos de los libros de MundoDisco de Terry Pratcher (como [Mort](https://amzn.to/2R2V3tG) o [¡Guardias! ¡Guardias!](https://amzn.to/2Vo99UZ), que son pequeñas obras de arte)
+  * De música, que lo voy a añadir este año, recomiendo temas como [Alec Troniq & Gabriel Vitel - Old Tortures](https://youtu.be/F8LeyiT6KB8), que me parece brutal. Tiene además una versión con la (Dortmunder Philharmoniker)[https://youtu.be/xIgJ2LsLg80] que es espectacular, al igual que otro de sus temas [New New World](https://youtu.be/mkcK_Kznsdc). 
+
+* **Ir en bici y patinar con [Bruno](https://twitter.com/brunocasasabos) y [Martina](https://twitter.com/martinacasasab)**:
+  * Conseguido. Hemos ido en bici, hemos patinado (con patines y patinetes). Hemos jugado a la pelota y hemos ido a la piscina. Hemos ido al cine y hemos visto varias películas en casa. Hemos hecho pequeños proyectos de programación similares a los de la [Hora de código](https://code.org/) y hemos seguido programando usando bloques (con Scratch y la placa de Arduino, e incluso con PHP). Hemos montado Legos y hecho puzzles... ¡También hemos hecho películas con efectos especiales!
+
+* **Terminar al menos uno de los proyectos inacabados**
+  * Fracaso absoluto. No está terminado del todo y seguimos en mismo estado que el año pasado. **[Construyendo un vehículo RC autónomo]({{site.url}}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo)**
+  * Hemos impreso unas pocas piezas con la [impresora 3D]({{site.url}}/2016/12/23/3d), y al menos he participado en el [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+* **Correr / ir en bici, al menos 4 veces por semana**: 
+  * Conseguido y con creces, hasta Noviembre (desde la Behobia, que no he tenido muchas ganas de salir). He conseguido no lesionarme en todo el año hasta el último día, donde me dio un pinchazo en el gemelo en la San Silvestre... así se termina el año, a lo grande...
+  * He ido bastante en [bici]({{site.url}}/2016/07/26/iternova-smartbike-01) (bastante para lo que solía salir otros años). No he pinchado más de 2 ruedas, lo que puedo considerar un muy buen año.
+  * He competido poco, pero con muy buenas sensaciones (para lo que entreno y para la edad que vamos teniendo), e incluso he conseguido superar marcas del año anterior (que ya fue bueno al mejorar marcas de los últimos 7 años anteriores). Por ejemplo, algunas carreras que me gustaría recordar:
+    - En Marzo, el 10K de Teruel: 34:55
+    - En Marzo, la media maratón de Valencia (campeonato del Mundo para los que tuvieran mínima): 77:41 (y eso que fui zombie desde el Km 9)
+    - En Octubre, el 10K Pilar - Zaragoza: 34:42
+    - Gané el cross de Calamocha veterano
+    - Reventé en la Behobia San Sebastián (20K, 01:20:15) a pesar de que creo que estaba para hacer 01:11...
+
+En definitiva ha sido un buen año personal. Así, voy a hacer la lista de _TO-DO_ para el año 2019:
+
+* **Mantener este blog personal**
+* **Leer libros, escuchar podcasts y participar en webinarios tecnológicos de forma frecuente** (en definitiva, para aprender nuevas cosas)
+* **Hacer muchas cosas interesantes con [Bruno](https://twitter.com/brunocasasabos) y [Martina](https://twitter.com/martinacasasab)**: Esto sé que lo voy a conseguir.
+* **Terminar el proyecto inacabado [Construyendo un vehículo RC autónomo]({{site.url}}/2017/08/22/autonomous-rc-car-construyendo-un-coche-autonomo) y comenzar otro**
+* **Correr / ir en bici, al menos 4 veces por semana**: Ya tenemos planificadas algunas carreras (como el campeonato del mundo de Media Maratón a celebrarse en Valencia, en marzo). Ahora solo falta entrenar...
+
+Y hasta aquí los buenos propósitos. ¡El año que viene más y mejor!
